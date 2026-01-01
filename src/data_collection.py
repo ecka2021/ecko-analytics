@@ -46,8 +46,15 @@ class CensusAPIClient:
         Args:
             api_key: Census API key (get free at https://api.census.gov/data/key_signup.html)
         """
-        self.api_key = api_key or os.getenv('CENSUS_API_KEY')
+        # self.api_key = api_key or os.getenv('CENSUS_API_KEY')
+        # Try Streamlit secrets first, fallback to environment variable
         
+        try:
+            import streamlit as st
+            self.api_key = api_key or st.secrets.get("CENSUS_API_KEY") or os.getenv('CENSUS_API_KEY')
+        except:
+            self.api_key = api_key or os.getenv('CENSUS_API_KEY')
+                
         if not self.api_key:
             logger.warning("Census API key not found. Will use synthetic data.")
     
@@ -190,7 +197,13 @@ class YelpAPIClient:
         Args:
             api_key: Yelp Fusion API key (get at https://www.yelp.com/developers/v3/manage_app)
         """
-        self.api_key = api_key or os.getenv('YELP_API_KEY')
+        # self.api_key = api_key or os.getenv('YELP_API_KEY')
+        # Try Streamlit secrets first, fallback to .env
+        try:
+            import streamlit as st
+            self.api_key = api_key or st.secrets.get("YELP_API_KEY") or os.getenv('YELP_API_KEY')
+        except:
+            self.api_key = api_key or os.getenv('YELP_API_KEY')
         
         if not self.api_key:
             logger.warning("Yelp API key not found. Will use synthetic data.")

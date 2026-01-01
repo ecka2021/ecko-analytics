@@ -218,6 +218,28 @@ with status_container:
     status_text.markdown('<div class="info-box"><b>Step 1:</b> Validating location and retrieving county information</div>', unsafe_allow_html=True)
     progress_bar.progress(10)
     
+    
+        # DEBUG: Show Python info
+    st.write(f"DEBUG: Python executable: {sys.executable}")
+    st.write(f"DEBUG: Python version: {sys.version}")
+
+    # Test if pandas is available in THIS environment
+    try:
+        import pandas as pd
+        st.write(f"DEBUG: Pandas version in Streamlit: {pd.__version__}")
+    except:
+        st.error("DEBUG: Pandas not found in Streamlit environment!")
+
+    # Show what the subprocess will use
+    import subprocess
+    test_result = subprocess.run(
+        [sys.executable, '-c', 'import pandas; print(pandas.__version__)'],
+        capture_output=True,
+        text=True
+    )
+    st.write(f"DEBUG: Subprocess pandas test: {test_result.stdout}")
+    st.write(f"DEBUG: Subprocess pandas error: {test_result.stderr}")
+    
     try:
         status_text.markdown('<div class="info-box"><b>Step 2:</b> Collecting demographic data from US Census Bureau</div>', unsafe_allow_html=True)
         progress_bar.progress(30)

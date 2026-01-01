@@ -222,16 +222,21 @@ with status_container:
         status_text.markdown('<div class="info-box"><b>Step 2:</b> Collecting demographic data from US Census Bureau</div>', unsafe_allow_html=True)
         progress_bar.progress(30)
         
-        
         import sys
+        import os
+
+        # Set up environment for subprocess
+        env = os.environ.copy()
+        env['PYTHONPATH'] = '/mount/src/ecko-analytics'
 
         result = subprocess.run(
             [sys.executable, 'ecko_zip.py', '--zip', zip_code, '--force'],
             capture_output=True,
             text=True,
-            timeout=300
+            timeout=300,
+            cwd='/mount/src/ecko-analytics',  # Run from project root
+            env=env  # Pass environment with PYTHONPATH
         )
-
         # DEBUG: Show what happened
         st.write(f"DEBUG: Return code: {result.returncode}")
         st.write(f"DEBUG: Output length: {len(result.stdout)}")

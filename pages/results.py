@@ -223,12 +223,13 @@ with status_container:
         progress_bar.progress(30)
         
         
-            # Increase timeout to 300 seconds (5 minutes) for Streamlit Cloud
+        import sys
+
         result = subprocess.run(
-            ['python3', 'ecko_zip.py', '--zip', zip_code, '--force'],
+            [sys.executable, 'ecko_zip.py', '--zip', zip_code, '--force'],
             capture_output=True,
             text=True,
-            timeout=300  # Increased from 120
+            timeout=300
         )
 
         # DEBUG: Show what happened

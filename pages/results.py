@@ -27,7 +27,7 @@ def get_base64_image(image_path):
     return base64.b64encode(data).decode()
 
 # Load results background
-bg_image = get_base64_image("/Users/eusilakitur/Desktop/Laundromats-market-analysis/uploads/image2.jpg")
+bg_image = get_base64_image("uploads/image2.jpg")
 
 # Professional CSS
 st.markdown(f"""

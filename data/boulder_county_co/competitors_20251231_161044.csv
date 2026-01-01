@@ -1,0 +1,54 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+CXrXSo4paqpeccm9ox9ybQ,Pundry,4.3,59,40.0160513,-105.2534396,1686 30th St,Boulder,80301,$$,False,yelp_api
+OThDvx7PU16Hik0IWjoquQ,Folsom Street Laundry,3.7,29,40.016974,-105.263458,1785 Folsom St,Boulder,80302,$$,False,yelp_api
+EP9YZR_fiDm3NKa46WHoTg,Wash-O-Mat,3.7,15,40.0247554042806,-105.281660556793,2614 Broadway St,Boulder,80304,$$,False,yelp_api
+Smx7Tb33yWeGo0ZXZaeANw,Table Mesa Laundromat,3.5,17,39.98297,-105.24844,695 S Broadway,Boulder,80305,,False,yelp_api
+v2ykglZBsNvWxYz29jYQGA,WaveMAX Laundry,4.7,52,39.8478,-104.99483780061767,720 W 84th Ave,Thornton,80260,,False,yelp_api
+DBfp1so_0k2gqNO-_oM_Mw,Lafayette Econ-O-Wash,4.3,46,39.9981547029765,-105.086266592407,410 E Simpson St,Lafayette,80026,$$,False,yelp_api
+hCPhFf7YwY2a0fZAp-lUeQ,Sud Masters Coin Laundry,4.1,13,39.98884117,-105.09097883,1075 S Public Rd,Lafayette,80026,$,False,yelp_api
+ZNzFezetg8xvtANYyizauA,Evans Express Laundry,4.7,6,40.38479,-104.6931,835 31st St,Evans,80620,,False,yelp_api
+s7osasLceXRtoiCkYaUmNQ,Soapy Jane's Laundry,3.8,20,40.1766957,-105.103284,1030 Coffman St,Longmont,80501,,False,yelp_api
+OJxkLSPtw1yzZFOcj1vx9w,American Dream Laundry,4.6,7,39.68201320000001,-105.02465332329676,1902 S Federal Blvd,Denver,80219,,False,yelp_api
+MCQ7mleZGr7UOV3ufZnW4g,Washway Laundromat,2.9,34,39.7453575134277,-105.05428314209,1711 Sheridan Blvd,Edgewater,80214,$$,False,yelp_api
+qa5yRYwdIfUlZayhViGWJg,Laundryville,3.7,3,39.988036829345944,-105.1357418,635 E South Boulder Rd,Louisville,80027,,False,yelp_api
+2yS5TnclUJ5IEaEgW5KEhA,Haste Laundry,0.0,0,39.65293076544599,-104.8827911,8966 E Hampden Ave,Denver,80231,,False,yelp_api
+CSFFM2rHScRdMQQodkYT1g,Wash House Laundromat,4.6,155,39.61197278134223,-105.00634187055232,1500 W Littleton Blvd,Littleton,80120,$$,False,yelp_api
+KyZlBG-GUdKNyM9nbCfg-Q,Epic Laundromat,4.7,45,39.790009,-105.027032,5115 Federal Blvd,Denver,80221,,False,yelp_api
+tbFRnzG3ieoRULHcmOBTuQ,Westland Coin Laundry,4.3,23,39.7416925192285,-105.125094431935,1545 Quail St,Lakewood,80215,,False,yelp_api
+qf2d_erEmiLQetDg1JhN5Q,WaveMax Laundry,4.5,36,39.653982488027616,-104.87167242067166,10005 E Hampden Ave,Denver,80231,,False,yelp_api
+hxaD6w55yLE43xBbi0MEUg,Washouse,4.0,26,40.55162112340789,-105.09697130916308,1119 W Drake Rd,Fort Collins,80526,$$,False,yelp_api
+8K58hUk_JIa5XWHKiga5_w,Wash House 2 Laundromat,4.6,23,39.6081,-105.09775,8996 W Bowles Ave,Littleton,80123,,False,yelp_api
+btzQgj8eYgr3KEiz131TFg,Grime busters Coin Op Laundry,4.7,30,39.5988388061523,-105.100036621094,9083 W Peakview Dr,Littleton,80123,$$$,False,yelp_api
+qp0ghdxLXmh9zn0rmfBnyw,Uptown Laundry Service,4.9,15,40.47841283075847,-104.91803564325453,1215 Main St,Windsor,80550,,False,yelp_api
+SDtLLxjZX3u57ppy9lBVTA,Lamar Coin Laundry,4.3,37,39.7405249,-105.0703436,6667 W Colfax Ave,Lakewood,80214,,False,yelp_api
+bF2tSPor10UVdQ-i56A4_A,Laundry Loft,4.5,18,40.4218976790779,-104.722670930806,1051 26th Ave,Greeley,80634,,False,yelp_api
+3B4V40iK-_sE6sPclgj9Jg,Glendale Laundromat,4.2,51,39.696944,-104.936747,4389 E Mississippi Ave,Glendale,80246,$$,False,yelp_api
+kSPWdcRV7u6OxSNJJ1clMA,Arvada Laundry,4.4,20,39.81386588376272,-105.12918224110452,11651 W 64th Ave,Arvada,80004,$,False,yelp_api
+JkeD1cJWzKIv9N5ENjXWgw,Wash City,4.5,14,39.697731,-104.808017,15451 E Mississippi Ave,Aurora,80017,$,False,yelp_api
+YYLYiSgKFokJ8p1kErLH9w,Fresh & Clean Laundry,5.0,6,39.73971550006181,-104.87621231904907,9612 E Colfax Ave,Aurora,80010,,False,yelp_api
+oEqW-y2Qry0zL8XbAGo4mA,Buckley and Mexico Coin Laundry,4.2,20,39.683053815472704,-104.78933420625788,1770 S Buckley Rd,Aurora,80017,$,False,yelp_api
+UCxOKVWTcGFh01ZuZcxI2w,Andy's Laundry,4.3,18,39.9164650226497,-104.94259536122576,3871 E 120th Ave,Thornton,80233,$,False,yelp_api
+sRXNivB2q7vqmEVH4EXyUw,Laundry On The Fax,4.7,33,39.74037,-104.8602,10941 E Colfax Ave,Aurora,80010,$$,False,yelp_api
+t9fi4iBOh72uoT5_4-tk9w,Wavemax Laundry - Aurora,4.4,11,39.6979138066169,-104.81256265193224,15087 E Mississippi Ave,Aurora,80012,,False,yelp_api
+B52u0uqx3gzxaRALqDTupg,Frisco Wash & Fold,4.3,23,39.5757811,-106.09711054090708,406 Main St,Frisco,80443,$,False,yelp_api
+rKcFI6grctnvSNxDiZhCcg,The Laundry Basket,3.8,19,40.4230493,-105.0734676,281 E 29th St,Loveland,80538,,False,yelp_api
+0_I3iM2-LIpm3tSr16nYOA,WaveMAX Laundry - Lakewood,4.0,21,39.6970071474518,-105.08075544841,1090 S Wadsworth Blvd,Lakewood,80226,,False,yelp_api
+DkPTQH-sHUipMuP0vSpHCg,One Stop Coin Laundry & Dry Cleaners,3.6,50,39.5263033642555,-104.767292332541,10471 S Parker Rd,Parker,80134,$,False,yelp_api
+Jln87AwZpoa1GG-hp9v3qQ,The Laundry Spot,3.8,16,39.8849957,-104.999075,1016 W 104th Ave,Northglenn,80260,,False,yelp_api
+ijJNgfRIX2ZX6aBTGk7V_g,Apsara Laundry,4.3,7,39.8120549,-104.920128,5795 E 63rd Pl,Commerce City,80022,$,False,yelp_api
+6xLNITWsC0u-ih-MrN3ctg,Aquamarine Commercial & Public Laundromat,4.1,8,39.58556,-106.09312,745 Ten Mile Dr,Frisco,80443,,False,yelp_api
+OyJJIm2L4eVcgBdlAP3y0A,Speed Queen Laundromat of Littleton,3.6,10,39.6130753,-105.003418,1360 W Littleton Blvd,Littleton,80120,,False,yelp_api
+CmG4MvIb0Z7hk6APVJvUxg,Sparkles Laundry Service,3.8,10,39.82758351090576,-104.90405300533014,7255 E 72nd Ave,Commerce City,80022,$$,False,yelp_api
+tm6E80KYXIeLikS4bVYJzg,B & M Coin Laundry,4.1,11,39.7768553862833,-105.023506991565,2885 W 44th Ave,Denver,80211,$,False,yelp_api
+eQTlc0fa5Te9sP3mdFiD9g,Super Laundromat,5.0,3,39.69799328027208,-104.8439797026994,12455 E Mississippi Ave,Aurora,80012,,False,yelp_api
+90Cfj_xh-YK2rn-sP9kyZA,Creekside Laundromat,3.9,8,39.6991945803165,-104.847131296992,1004 S Peoria St,Aurora,80012,$$,False,yelp_api
+YAwvazN7SKidsGZe38U8bA,Wash'em Up Laundry - Aurora,4.7,3,39.73148609245709,-104.86468094479098,10690 Del Mar Pkwy,Aurora,80010,,False,yelp_api
+OAl0FnM-94LmvHkrG10kvw,Aurora Laundromat,4.3,3,39.747136,-104.8512537,1990 Nome St,Aurora,80010,,False,yelp_api
+6skEeX6FdIUss-C17WwUXg,Suds Out Laundromat,3.7,20,39.690579,-105.119506,1555 S Kipling Pkwy F,Lakewood,80232,,False,yelp_api
+iPusbAlCmOlTPU_kDOKPeg,York Laundromat,3.6,9,39.76485,-104.95996,3415 York St,Denver,80205,,False,yelp_api
+UU9i6S0c32KqFUsH4S3IEg,Drip N Dry Laundromat,3.5,13,39.6195,-105.02847,5302 S Federal Cir,Littleton,80123,$$,False,yelp_api
+kJ8UqHgeswOFnlN1JVgTDw,Sunrise East Laundromat,4.5,2,39.90250482881106,-104.9805128411044,464 Malley Dr,Denver,80233,,False,yelp_api
+caOy8vzl1JwCh2SOvH7e7g,Washway Laundromat & Alterations,3.3,41,39.6682683,-104.8660051,2670 S Havana St,Aurora,80014,$,False,yelp_api
+CPPHpd3F33PdP6JsbqBuZQ,Wash'em Up Laundry #4 - Aurora,4.0,1,39.7412870421392,-104.855599480986,1545 Macon St,Aurora,80010,,False,yelp_api
+9dHUEorwHOwtA4tnOhT8xA,LaundroLab,4.8,4,39.68038,-105.02613,1997 S Federal Blvd,Denver,80219,,False,yelp_api
+LgQjEMGXqXuDgm-H_Dt8Jg,Wash'em Up Laundry #2 - Laundromat Denver,3.4,16,39.65472413691739,-105.05141542123582,3100 S Sheridan Blvd L,Denver,80227,$,False,yelp_api

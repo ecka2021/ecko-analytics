@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+yx633WDyYNqjS2huIcMI2g,Laundro Lab Laundromat,5.0,4,44.44897063833476,-73.2074289861363,570 Shelburne Rd,Burlington,05401,,False,yelp_api
+CMnSILfmVBXOb4SoqjazBg,Pearl Street Laundromat,2.1,13,44.4805,-73.21565,76 Pearl St,Burlington,05401,$,False,yelp_api
+T0IRv3GVjGdN0CPOzPvUAg,Clothes Quarters Laundromat,4.4,39,44.50061445678798,-73.18247185846985,32 Normand St,Winooski,05404,$,False,yelp_api
+MX-GrinmGeHW6aVr2pnh-g,Greers Laundry Centers,2.3,9,44.45073,-73.20918,521 Shelburne Rd,Burlington,05401,,False,yelp_api
+Icar8yDKOyJ5_Yx8HQvMNg,Laundromat 99,4.2,19,44.49415,-73.1912,99 Malletts Bay Ave,Winooski,05404,$$,False,yelp_api
+8mzy6x8IYOdxlmRoc4eh5g,Friends Internet Launderette,4.8,8,44.6907,-73.45768,5025 S Catherine St,Plattsburgh,12901,$$,False,yelp_api
+USFPqnm2m2WdlUwqOjZFlQ,Capitol City Laundromat,4.6,7,44.2616154,-72.5757512,52 Elm St,Montpelier,05602,,False,yelp_api
+fRYxWD02nupi9rMw7r6FcA,802 Suds Laundromat,5.0,3,44.33412,-73.11134,22 Commerce St,Hinesburg,05461,,False,yelp_api
+9Zs0bhNw8rREf8vNpp77Tw,Loot & Launder,4.1,7,44.28739,-73.98505,2523 Main St,Lake Placid,12946,$$,False,yelp_api
+hbXZKV__pCLu3qZYqTe_kw,Waterbury Laundromat,3.6,12,44.33473519142424,-72.75148999999999,5 Park Row,Waterbury,05676,,False,yelp_api
+HeWUh7_ETBOTo71yGQk97w,Lorraine's Lakeside Laundry,5.0,1,43.83542,-73.76233,1065 Route 9,Schroon Lake,12870,,False,yelp_api
+HBMSY6SfWZkeSCLYg8apWA,Riverside Laundromat,5.0,1,44.44029935919408,-73.6763945691854,14226 NY-9N,Au Sable Forks,12912,,False,yelp_api
+gEmnDO0Ji3ixjSuGZjUg5A,Ruby's Laundromat,4.7,3,44.15671861698021,-72.49542741476995,281 Middle Rd,Barre,05641,,False,yelp_api
+gg-QYyAJDowsNOJtg3XoBQ,Village Laundry,3.7,3,44.5776457,-73.5239004,5 Gorman Way,Peru,12972,,False,yelp_api
+YNhtIZSOMfuCyX3mYdPaPQ,Buck's Plaza,2.0,2,44.7206425161646,-73.469487485775,6048 State Rte 22,Plattsburgh,12901,,False,yelp_api
+mhU3xfDscV2rR5e99R0HNQ,Greers Laundry Centers,2.2,5,44.44654,-73.103235,204 Cornerstone Dr,Williston,05495,,False,yelp_api
+8hhQNF2EanNaE1Fzqj7ftw,Washland Laundry-Mat,3.3,4,44.70778,-73.45318,10 Weed St,Plattsburgh,12901,$$,False,yelp_api
+n7bV7E6DYJHVmsatabOAgg,The Wash Shed,4.0,1,44.379791,-73.226352,80 Shelburne Shopping Park,Shelburne,05482,,False,yelp_api
+v75SE4Ax7TeUSoiY1UPycA,Warrensburg Laundry & Dry Cleaning,1.0,2,43.49217,-73.77024,11 Richards Ave,Warrensburg,12885,,False,yelp_api
+dLJmtROxIK-rK5ce7_sF8g,Super Sparkle Laundry,4.0,1,44.212982878089,-72.5215847790241,775 N Main St,Barre,05641,,False,yelp_api
+Fg78d-vJawNoeVmlXUyXrw,Busy Bubble,2.4,5,44.20427,-72.50909,425 N Main St,Barre,05641,$,False,yelp_api
+tTmpnV_Ij13JQiAnBL38yw,Crown Point Car Wash & Laundromat,1.0,3,43.95048,-73.42397,Main St,Crown Point,12928,,False,yelp_api
+ru2H-9NtJIbUErgZ4JZ-yw,Gold Medal Laundromat And Dry Cleaner,1.9,19,44.29724,-73.99921,45 Hadjis Way,Lake Placid,12946,,False,yelp_api
+hj9Nny1zsny02CAgDzRPqw,Laundromat & Dry Cleaning,2.0,6,44.180035,-72.835658,Fiddlers Grn,Waitsfield,05673,$$$$,False,yelp_api
+--JYOsV9JjM7kV73XnDwMQ,Randolph Village Laundromat,2.5,2,43.92596,-72.6657199,75 N Main St,Randolph,05060,,False,yelp_api
+gWZmSy7S_YS-o4etXgVMUA,Soap Opera,0.0,0,44.19044142713151,-72.49890603125095,117 S Main St,Barre,05641,,False,yelp_api
+LFayKZR0gPfhWs4KInXG5w,Swanton Laundromat,0.0,0,44.91953,-73.12105,43 1st St,Swanton,05488,,False,yelp_api
+8XMlv33Q_uv6PYH9eT8m1A,Positive Spin Laundry,0.0,0,44.8122851463983,-73.087199,109 Lake St,Saint Albans,05478,,False,yelp_api
+GOIfCTqOpsxq0KNhm5s94g,Sip-N-Suds Laundromat,0.0,0,44.1330986469984,-73.0783583968878,3 Main St,Bristol,05443,,False,yelp_api
+TybazfXBHSU6TpPgjCGBRA,Clean Start Laundry and Carwash,0.0,0,44.0420349,-73.460865,4223 S Main St,Port Henry,12974,,False,yelp_api
+9Qlxf8JcMutXZ-lVRfZHRg,Warehouse coinwash,0.0,0,44.329132541214726,-74.12788669999999,72 Woodruff Ave,Saranac Lake,12983,,False,yelp_api
+gnUu5WvwCE-rodi0KqACEQ,Essex Jct Launderette Payphone,0.0,0,44.4949,-73.11933,81 Pearl St,Essex Junction,05452,,False,yelp_api
+T3IuGPb5ESQcJVaDLuqWVA,Neuffer's Deli & Laundromat,4.4,34,43.555459,-73.65591,4923 Lake Shore Dr,Bolton Landing,12814,,False,yelp_api
+xvG4Bm_LWLW0n0Xe4sxBdA,Portland Street Laundromat,5.0,2,44.420870596829,-72.0026459688089,642 Portland St,Saint Johnsbury,05819,,False,yelp_api
+UsvOFN9mwTkij8lxJWPq4g,Racoon Laundromat,5.0,1,43.247876,-73.834412,92 Main St,Corinth,12822,,False,yelp_api
+PgkpJ06U4rVpT2JHEZUhbg,East End Laundry,5.0,3,44.85058,-74.27766,621 E Main St,Malone,12953,,False,yelp_api
+T4f2b0nsk-xh26_gwnryJg,Laundry@195,5.0,1,43.63784,-72.26988,195 Mechanic St,Lebanon,03766,,False,yelp_api
+z7yunzL3qz7iOPXyntNsXQ,Squechee Clean,3.2,13,43.64359,-72.42234,6990 Woodstock Rd,Hartford,05001,,False,yelp_api
+tZabKc_ft6WxFgjcJJCr0g,NORTH CREEK LAUNDROMAT,5.0,2,43.6984829292631,-73.9841375569898,Bridge,North Creek,12853,,False,yelp_api
+OuJnPEOwpXmnSWV4Mofl4A,Downtown Laundromat,3.7,3,43.609245,-72.9816473,103 State St,Rutland,05701,$,False,yelp_api
+13MlAtvH8fNpCumuNl3P8A,Tiny Bubbles Laundromat,1.0,1,44.14737,-72.03439,6 Smith St,Woodsville,03785,,False,yelp_api
+QUTkZu7bY5nrZl-1M7_7vg,Northern Laundry,2.0,1,43.33735087012842,-73.67893069238986,928 State Route 9,Queensbury,12804,,False,yelp_api
+3HPkCu4-IdRSd7wNtRS-lA,The White River Laundromat,2.0,4,43.6592133827193,-72.3150255158544,754 Hartford Ave,Hartford,05001,,False,yelp_api
+kW7aWuhfOfUvBPM66hz9og,East Side Laundry,0.0,0,44.94222,-72.20253,42 Eagle Nest Dr,Newport,05855,,False,yelp_api
+Hx4g8Xn_-oYVnzSIwFlSgw,Strongs Avenue Laundromat,0.0,0,43.60188976833677,-72.97439018404374,78 Strongs Ave,Rutland,05701,,False,yelp_api
+xRMPJiHv0pE7Mxzb41t5SA,Scrub-A-Dub,2.0,4,43.6437099701889,-72.7883618774,Killington Rd,Killington,05751,,False,yelp_api
+6sE1GuKUneET5FAmauxmmQ,Twin State Housekeeping,0.0,0,43.64496,-72.30529,,Lebanon,03784,,False,yelp_api
+oM0tPREIE89VyLAyeF1LjA,Laav Buanderie Valleyfield,0.0,0,45.25289,-74.13511,85 Chemin Larocque,Salaberry-de-Valleyfield,J6T 4A6,,False,yelp_api
+AEzDmU5wf9I72_j4iaecEw,Lone Pine Laundry,0.0,0,43.70336,-72.28955,10 N Main St,Hanover,03755,,False,yelp_api
+NW87adQKLDkYJxPef4FIpQ,Maureens Laundrette,0.0,0,53.41445,-6.83198,Main Street,Enfield,03748,,False,yelp_api

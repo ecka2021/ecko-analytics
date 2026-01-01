@@ -1,0 +1,15 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+X7dOzc8hot0ZWuCvaS0F5w,Depot Laundromat,4.0,11,46.59955,-112.01441,1507 Railroad Ave,Helena,59601,,False,yelp_api
+F4xnbAm1Gr0Sv6vXll-9Ng,Little Dipper Laundromat,1.7,3,46.58948,-112.01595,1411 11th Ave,Helena,59601,,False,yelp_api
+Q0Sm6xhhjg3lFDCqL3Qn9Q,The Clothesline,4.8,52,45.67956,-111.04834,815 W Main St,Bozeman,59715,$$,False,yelp_api
+9MomYSL75hi-m6f7RpRcxQ,Duds N Suds,4.3,30,45.6743583679199,-111.067085266113,502 S 23rd Ave,Bozeman,59718,,False,yelp_api
+tSsz3wNGCgWPGBXaqma9jg,Rodney Street Laundry,2.0,1,46.58641,-112.03447,122 N Rodney St,Helena,59601,,False,yelp_api
+SfbKxfaqbABadZ_sh5CaTA,Front Street Laundromat,3.3,6,45.99938299931304,-112.49911743953255,1000 E Front St,Butte,59701,$,False,yelp_api
+ki7meAc0MfFTRfFyEytaXw,Off The Cuff Drycleaners,2.0,3,45.77771,-111.18058,212 W Main St,Belgrade,59714,,False,yelp_api
+CpASkxe-35sfW-7zoU3yvA,Lolo Wash and Dry,1.8,6,46.76525279320911,-114.07825047055218,116 Glacier Dr,Lolo,59847,,False,yelp_api
+byEM6kRt32WlPPXMsf5gkg,Goosetown Laundromat,3.0,3,46.12865,-112.94076,918 E Commercial Ave,Anaconda,59711,,False,yelp_api
+3kfvX9CWIZrJ7sbSa4Qqmw,Three Rivers Laundry,0.0,0,45.894679456275064,-111.55216234612853,15 S Main St,Three Forks,59752,,False,yelp_api
+ERrwskEpb9uA7iFee8WG3A,K Mats,0.0,0,46.01001492261509,-112.53419693185845,26 E Silver St,Butte,59701,,False,yelp_api
+lRsxayKZUnTEf8JqPxMzeA,Belgrade Laundromat,3.0,4,45.7730749,-111.18294,203 W Madison Ave,Belgrade,59714,,False,yelp_api
+slTqkEyyHrkefZfgPX2ckg,Washateria,0.0,0,46.394625,-112.735895,800 Main St,Deer Lodge,59722,,False,yelp_api
+8DTiOZNXtvSC3ADMsYRQNg,Filling Station,2.8,6,47.177852,-113.483849,3189 MT-83,Seeley Lake,59868,,False,yelp_api

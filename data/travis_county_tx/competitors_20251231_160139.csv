@@ -1,0 +1,37 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+udnmtRnWmyLX1vfgeMBlyQ,Laundry Works,4.3,89,30.29589,-97.74332,606 W 29th St,Austin,78705,$$,False,yelp_api
+EzbJapGstCxbDjowOh3gMQ,Michael A Laundromat,4.9,314,30.25446,-97.771847,1701 Bluebonnet Ln,Austin,78704,$,False,yelp_api
+fjZ9RfGOyWdMlJlnMACp9g,LaundroLab,4.8,25,30.368488,-97.720187,8868 Research Blvd,Austin,78758,,False,yelp_api
+ouB0DqxnFP4_xBMee1T9dA,The Big Clean Laundromat - MLK,4.1,43,30.285652000220583,-97.6811373,4701 - B E Martin Luther King Blvd,Austin,78721,$,False,yelp_api
+zEuGWnmb_-HGAtsv_frpmw,Clean Laundry,4.6,10,30.340585217650563,-97.69239419078173,1030 Norwood Park Blvd,Austin,78753,,False,yelp_api
+TlMub3-vNdD7v9X4KuxKFA,Spincycle Coin Laundry,3.4,97,30.3012791,-97.7386475,3501 Guadalupe St,Austin,78705,$,False,yelp_api
+Aec1jwaUz-wrbvC3iooBCA,Wash Day Laundry-OH,4.4,78,30.242094664169468,-97.88150207303252,7626 Hwy 71 W,Austin,78735,$,False,yelp_api
+Bq9lvAjVScgfsiCKyIKBMA,EZ Coin Laundry,4.8,8,30.297605,-97.68691,5027 Manor Rd,Austin,78723,,False,yelp_api
+NdRh5HlMvVAGOWh7eR4bOw,Washatopia Laundromat,4.1,195,30.45254,-97.77926,9030 Anderson Mill Rd,Austin,78729,$$,False,yelp_api
+ReTG6fPuOqpBl7pQNv7h3A,SpinZone Laundry,3.1,101,30.2379302,-97.7551244,2424 S Congress Ave,Austin,78704,$$,False,yelp_api
+QuKqVSa1i9e-DCNxjfAN0g,SpinZone Laundry,3.7,60,30.320074,-97.695396,6307 Cameron Rd,Austin,78723,$,False,yelp_api
+B9yLCxc5-eq4cmC0KiW6pw,Wash Day Laundry,3.9,58,30.200635,-97.8382374,8213 Brodie Ln,Austin,78745,$,False,yelp_api
+xbrIlzTexN9HP0CSgH8fZA,ATX DRY CLN,3.4,5,30.295951,-97.743274,606 W 29th St,Austin,78705,,False,yelp_api
+HnFrcphfIw7DY5LJcbembw,The Big Clean Laundromat - Parmer,4.0,43,30.389348,-97.6511616,1528 E Parmer Ln,Austin,78753,$$,False,yelp_api
+xQvdp8LKuKf-NoMqraTOpg,Rush Laundromat,3.8,39,30.40143,-97.657244,12601 Tech Ridge Blvd,Austin,78753,$$,False,yelp_api
+tg1eey7pH4zz5PYX_uvDWQ,Clean Laundry,4.2,20,30.412088,-97.68987,1701 W Parmer Ln,Austin,78727,,False,yelp_api
+gpEzkn7klB--aUQAZiGQEQ,My Hangers,4.1,13,30.197038,-97.786337,500 W William Cannon Dr,Austin,78745,,False,yelp_api
+nPtWFHoxpciKZoCtaFg_IA,Rinse,4.0,7,30.182809,-97.729219,,Austin,78744,,False,yelp_api
+iMxy0r4SA0e1zbJxo1-eww,SpinZone Laundry,4.0,66,30.517659921017,-97.6829180786627,1108 N Mays St,Round Rock,78664,,False,yelp_api
+fS-i_CTngZbrc1H0lunz3w,Spincycle Coin Laundry,4.0,5,30.366555,-97.694587,9717 N Lamar Blvd,Austin,78753,,False,yelp_api
+BfV9QyQSuIEtgychVJ612Q,Spincycle Coin Laundry,3.2,13,30.237136470941294,-97.72359730498349,2410 E Riverside Dr,Austin,78741,$,False,yelp_api
+a_WGKMMeTabtMPVCEIvxKQ,Riverside Washateria,2.9,24,30.15530265863067,-97.83419035222994,11330 Manchaca Rd,Austin,78748,,False,yelp_api
+6E_xgaKdHgtieGQGUNsYVw,Super Spin Laundromat,3.3,4,30.34404676655112,-97.71410828538728,7601 N Lamar Blvd,Austin,78752,$,False,yelp_api
+z-UTiZhleLguOJAMDhfkaQ,Rbm Washateria,4.0,1,30.23635,-97.69556,737 Montopolis Dr,Austin,78741,,False,yelp_api
+gKCQ9NfBYhVtsU8SJmpJWg,Royal Wash & Dry,2.3,6,30.36619,-97.71877,8776 Research Blvd,Austin,78758,,False,yelp_api
+QeekZ6lWVBt4nFg0c4uRLw,Quik Wash Laundry,0.0,0,30.3679,-97.70625,9414 Parkfield Dr,Austin,78758,,False,yelp_api
+2wPG3816BNnbdYuaJ8a96A,Speedway Coin Laundry,0.0,0,30.30036,-97.73351,101 E 38th St,Austin,78705,,False,yelp_api
+x5Cl6m_uq0_uBJO7k7MQgQ,Reid's Cleaners & Laundry,2.7,18,30.2220309783568,-97.8374286571743,6600 S Mopac Expy,Van Alstyne,75495,$$,False,yelp_api
+LbwJriHSCirzzz3TlcSsmw,Sunrise Laundromat,1.0,4,30.2434501647949,-97.7642211914062,915 Oltorf,Austin,78704,,False,yelp_api
+xBQ7nu2N747jFd6cEKC0ow,B&B laundromat,0.0,0,30.34153,-97.75489,5900 Balcones Dr,Austin,78731,,False,yelp_api
+hOEoPi2g5BLLiYNG2dB1yA,Laundry and More,0.0,0,30.32823186037844,-97.69034918768573,7309 Cameron Rd,Austin,78752,,False,yelp_api
+IIyoUV2UdPqihDMfwptJpg,Boss Lady Mobile Laundry and  Cleaning,1.0,1,30.2688617706299,-97.6834411621094,,Austin,78721,,False,yelp_api
+vXSIgcOBOEUxzGgSRgRf6Q,Steel Drum Laundry II,3.0,7,29.8836643627897,-97.94443520000002,315 W Hutchison St,San Marcos,78666,,False,yelp_api
+vpQPC7HFHguZcWJQ_Mmprg,Kwik Wash,0.0,0,30.19351821216274,-97.7441741,5405 S Pleasant Valley Rd,Austin,78744,,False,yelp_api
+7ab9zUj61yMavNtlSPq1bg,CoinLess Laundry,3.8,52,30.4079553,-97.69841207026413,1921 Cedar Bend Dr 150B,Austin,78758,$,False,yelp_api
+WNcaAxpuVbl0fdVlViStUg,Parmer Laundromat,3.6,37,30.41479,-97.69279,12505 Rampart St,Austin,78727,$$,False,yelp_api

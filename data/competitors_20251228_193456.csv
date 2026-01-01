@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+vJNp3r94TXKxb_KKH7dykg,Bubbleland,4.0,67,41.9222013321481,-87.6946406767299,2249 N Milwaukee Ave,Chicago,60647,$,False,yelp_api
+SnxoEZM1o-BbTM1xtwONGQ,Bucktown Laundromat & Drop off,4.5,4,41.910276,-87.672732,1801 W North Av,Chicago,60622,,False,yelp_api
+EEZOXmr7X6Qoy_c5shSwLg,WashTime,3.6,21,41.924586,-87.745791,4748 W Fullerton Ave,Chicago,60639,$$,False,yelp_api
+ZK8awEGfjpZ21wmsNUy7Pw,Easy Breezy Laundry,4.6,59,41.9682699,-87.69904,2807 W Lawrence Ave,Chicago,60625,$$,False,yelp_api
+mkbd9u2_NQIUyX9M2yT7Ag,Wash Smart Lavanderia,4.1,29,41.8519470477308,-87.6887814526133,2523 W Cermak Rd,Chicago,60608,$$,False,yelp_api
+qzHrcnSBSkcivmUom4wT5A,Mighty Clean Laundry,4.2,66,41.9206025,-87.687671,2128 N Western Ave,Chicago,60647,$,False,yelp_api
+gssB8ahvIPQEqOJYe8xYEw,Rinse,3.6,69,41.9016,-87.658023,,Chicago,60642,,False,yelp_api
+SgIuO_1I6vpBhEuxDerHRw,Humboldt Park Bubbles,4.2,9,41.9032664033052,-87.6941673725553,2650 W Division St,Chicago,60622,,False,yelp_api
+Mc5IqH9BnU2qhTbDWYXb6w,Wash U Coin Laundry,4.6,56,41.96511,-87.6614,4552 N Magnolia Ave,Chicago,60640,$,False,yelp_api
+1Ro2Gn981rzr7xawNlpMrQ,DelMar Laundry,4.7,3,41.9105446,-87.6882123,2422 W North Ave,Chicago,60647,,False,yelp_api
+4vnc-7rgcjb4_wtUt1CDmA,Yo-Yo Coin Laundromat,3.5,52,41.8959751,-87.665535,1515 W Chicago Ave,Chicago,60642,$,False,yelp_api
+K5XewH7fhEqgYQ5N0tS3oQ,Everclean Laundromat,4.2,6,41.89891,-87.7257,957 N Pulaski Rd,Chicago,60651,,False,yelp_api
+dCqJ8YQNhtidTVKxBZ4X6w,Village Laundry,2.5,27,41.90094,-87.68665,1055 N Western Ave,Chicago,60622,$,False,yelp_api
+7Yw5kHFELvY-m9zbwuxVNQ,Riverpoint Laundry Service,3.3,62,41.92721029981486,-87.6730370290768,1730 W Fullerton Ave,Chicago,60614,$,False,yelp_api
+CA3oQ4ZqpWc7YbKDe5uyGg,Happy Hamper,5.0,8,41.9840702,-87.66103473365028,5620 N Ridge Ave,Chicago,60660,,False,yelp_api
+yBI6riTr9vlcLsmqr1hnaw,West Haven Coin Laundry,4.0,5,41.8828739,-87.6853588,2355 W Washington Blvd,Chicago,60612,$,False,yelp_api
+3l5x0Rocq5SIb4mnZTH1RA,CD One Price Cleaners,3.3,167,41.93338098,-87.64443331,2815 N Broadway,Chicago,60657,$,False,yelp_api
+UFY941bz9OJFHqAp0_Trew,Coachlight,3.5,65,41.94529303646794,-87.64589811068662,3475 N Broadway St,Chicago,60657,$,False,yelp_api
+vEhRTRmBdRP-3waFvTKFMQ,The Friendly Wash Laundromat,3.9,10,41.923866,-87.75238,5027 W Fullerton Ave,Chicago,60639,$$,False,yelp_api
+g2SqbeQh38DQ4kKGI2P_Vw,The Friendly Wash Laundromat,3.6,33,41.95198515949255,-87.7083708822066,3858 N Kedzie Ave,Chicago,60618,$$,False,yelp_api
+cs08yT_hY4r8cpUSGdr9xQ,Speed Queen Laundry,3.3,14,41.94198681581549,-87.72802273038509,3333 N Milwaukee Ave,Chicago,60641,,False,yelp_api
+W00Pm9kdC9JmkE_9NEjTfw,Spin It Up Laundry,4.2,5,41.94881,-87.71325,3710 N Kimball Ave,Chicago,60618,,False,yelp_api
+lNBo8nTtcTzl1TuPeJctQQ,Spin Cycle,4.8,4,41.8659591674805,-87.7122573852539,3451 W Roosevelt Rd,Chicago,60624,,False,yelp_api
+ityzBfpMvkbbY77fjAtiSQ,Wash Smart Lavanderia,4.2,18,41.7715255,-87.7306517,4314 W Marquette Rd,Chicago,60629,$,False,yelp_api
+yJ8JGd40_z6-rf2zMqKvPw,Laundry World,4.3,12,41.99401913034233,-87.8011542,6165 N Northwest Hwy,Chicago,60631,,False,yelp_api
+LbaGaQvfnHXAmfUgk1vHvQ,Biltmore Cleaners,3.4,21,41.9831949,-87.709782,3216 W Bryn Mawr Ave,Chicago,60659,$,False,yelp_api
+Edq-sxIlNzVxM0nupGM4eg,Wash Smart Lavanderia,4.1,15,41.7933655,-87.7070191,3319 W 55th St,Chicago,60632,$,False,yelp_api
+ytvLF7bMah_BRm23p2xCsQ,Aqua Clean Laundry,3.0,10,41.91048,-87.702515,3000 W N Ave,Chicago,60647,,False,yelp_api
+3SToMOyVOUM-Fhku6NgVUA,CD One Price Cleaners,0.0,0,41.89602527649913,-87.6775874,2010 W Chicago Ave,Chicago,60622,,False,yelp_api
+-kfOnE9N3rY3XIziXch5iQ,Wash Smart Lavanderia,3.9,19,41.82025,-87.68516,4030 S Western Ave,Chicago,60609,$$,False,yelp_api
+RVSgERfLG8Ean7Rd2LVhgw,Leavitt Laundry,4.3,3,41.852058687076,-87.6801381206893,2145 W Cermak Rd,Chicago,60608,,False,yelp_api
+gPj2gWptXpZKs34Ym6xUhA,Wash Smart Lavanderia,4.1,10,41.8085973109165,-87.7042280161163,4646 S Kedzie Ave,Chicago,60632,$$,False,yelp_api
+mksUZWx3L04_OTK4yC4CIQ,Bubbleland On Western,3.6,28,41.8008215465957,-87.6830800250172,5101 S Western Blvd,Chicago,60609,$$,False,yelp_api
+HD6QsewQj_GaTTw5vOUP4A,Top Coin Laundry,3.9,19,41.970917,-87.728588,4926 N Pulaski Rd,Chicago,60630,$,False,yelp_api
+4LJlIOnGoUEDIKODGxM9nQ,Wash U Laundromat,4.2,5,41.9184718,-87.7264069,2059 N Pulaski Rd,Chicago,60639,,False,yelp_api
+Pn3c-cUJUXFEK7ihwJkCuw,SpinXpress Laundry,5.0,1,41.84293,-87.70301,3107 W 26th St,Chicago,60623,,False,yelp_api
+Uk5TJVpeetL62JekyKUWqQ,Spincycle Laundromat,3.1,21,41.994312286377,-87.6901626586914,6200 N Western Ave,Chicago,60659,$,False,yelp_api
+w8Xwy66ttFuLi0-DO9BKbQ,Clean Spin Laundry,4.2,5,41.94066,-87.72586,3273 N Milwaukee Ave,Chicago,60618,,False,yelp_api
+DXLmnu-OlQ2Ralni025NQw,Fresh Laundromat,3.7,7,41.85152,-87.70444,3141 W Cermak Rd,Chicago,60623,,False,yelp_api
+kOWRtoZw2uecnv_wdnuUTg,Kedzie Coin Laundry,4.3,6,41.96679,-87.70876,4700 N Kedzie Ave,Chicago,60625,$,False,yelp_api
+e1fHIilmLO-Nj44fC7xIKQ,Bel-Long Coin Laundry,3.8,8,41.9384851,-87.761968,5403 W Belmont Ave,Chicago,60641,$,False,yelp_api
+gOnHAtOVCA7i1f91Ptmnpg,World's Largest Laundromat,3.8,65,41.834607,-87.793423,6246 Cermak Rd,Berwyn,60402,$$,False,yelp_api
+nh_N_A-JXlRwuxrC1dCLXg,Quick Wash Laundromat,3.3,11,41.858089,-87.664078,1504 W 18th St,Chicago,60608,,False,yelp_api
+mWJNCUBZTsjFvmOoT2LkHg,The Friendly Wash Laundromat,3.5,46,41.9659871,-87.7591222,4716 N Milwaukee Ave,Chicago,60630,$$,False,yelp_api
+PjeEEMMv8PynDLCMGMzisw,Jumbo Laundry,2.7,25,41.9687451,-87.6684387,1523 W Lawrence Ave,Chicago,60640,$$,False,yelp_api
+NG7zstwMQ3AcTyTCJJKVFw,Tap Wash,3.6,15,42.010584193765496,-87.68986353309717,7067 N Western Ave,Chicago,60645,$$,False,yelp_api
+rhOU2qzgzMb22fKbwV5v3A,Quick Wash,5.0,1,41.937144,-87.7466851,3103 N Cicero Ave,Chicago,60641,,False,yelp_api
+tWOsM2CBcMGatcYkXqvJPw,Tide Laundromat - Lakeview,5.0,1,41.93481,-87.67011,2934 N Ashland Ave,Chicago,60657,,False,yelp_api
+YrKpXvTVaQpaxPrZMsywPg,John's Lavanderia,3.3,15,41.85614,-87.66647,1856 S Ashland Ave,Chicago,60608,,False,yelp_api
+Nx4n0Qj2ymhbYfcz0QVOfA,Blue Kangaroo Coin Laundry,2.9,23,41.858227,-87.6739,1902 W 18th St,Chicago,60608,$$,False,yelp_api

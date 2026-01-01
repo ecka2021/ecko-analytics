@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+s77TCPOK-I_pPyjHuHA1Ng,Soap Suds Coin Laundry,4.4,181,29.7946684,-95.3785009,4211 N Main St,Houston,77009,$,False,yelp_api
+ucIa6hJxWjuf5MJyOBMBqQ,Coin Laundry Wash-Fold Service,4.8,6,29.7426451,-95.3997936,1613 Westheimer Rd,Houston,77006,,False,yelp_api
+JXqpPlbkrHtgIISUoso22w,Huebsch Laundry,4.4,29,29.729318374832552,-95.3103601558197,900 South Wayside Dr,Houston,77023,$$,False,yelp_api
+2pT7CBEp_Aklha_4cy2x9A,Graustark Laundry,3.6,124,29.732339,-95.3949889,4506 Graustark St,Houston,77006,$,False,yelp_api
+9a9Var1CkRxJPs6ME4nEVw,Splash Washateria & Dry Cleaner,4.2,21,29.719899,-95.477131,5702 Chimney Rock Rd,Houston,77081,,False,yelp_api
+thkomCarhI9IbquNF2K_1g,Stanford Laundromat,3.6,86,29.7427556723009,-95.38871627287726,3313 Stanford St,Houston,77006,$,False,yelp_api
+f1coX0aNtzUXjR-mJlcFnQ,WaveMax Laundry,4.7,3,29.786213324111717,-95.3616859744427,2611 Fulton St,Houston,77009,,False,yelp_api
+Uj3vNzIT71NeAcUFGpwQ_Q,The Texas Laundry,5.0,1,29.74186939501267,-95.32450793325168,5104 Harrisburg Blvd,Houston,77011,,False,yelp_api
+Bvue67mA9QCTgM1o89rNNQ,24 Hour Laundry,3.9,87,29.702539843152067,-95.47576432883602,7133 Chimney Rock Rd,Houston,77081,$$,False,yelp_api
+cLtIsRZO5rJg03Hugy-dhQ,Breeze Laundry,4.5,22,29.73523,-95.63318,13711 Westheimer Rd,Houston,77077,,False,yelp_api
+aJfRR3L8HP8vPnvWvedztg,Laundry-4U,0.0,0,29.741609548390915,-95.30247,803 S Sgt Macario Garcia Dr,Houston,77011,,False,yelp_api
+FD4db_tnfynP_60TcliBQw,D & S Laundry,3.4,42,29.7426451,-95.3997936,1613 Westheimer Ave,Houston,77006,$,False,yelp_api
+TZQY8XGA3eCvWVGgxpOgSw,Fondren Washateria,4.7,7,29.7184825,-95.5202049,5716 Fondren Rd,Houston,77036,,False,yelp_api
+5i4CTwxNy5kI86CGNW4IJw,Cooper Laundry,4.5,8,29.8638998,-95.4129936,7019 N Shepherd Dr,Houston,77091,,False,yelp_api
+BuTo0aQGO7brchwsmCTwLg,Speed Queen Laundry,5.0,1,29.7292140735825,-95.3103229855183,900 S Wayside Dr,Houston,77023,,False,yelp_api
+WRxiyDfLhcyJoy5SXH_MaQ,Las Lavanderia,4.4,8,29.677251,-95.28956,6137 Telephone Rd,Houston,77087,,False,yelp_api
+rbARQSJqfMN1Od3psFQ2pw,Washateria,4.5,2,29.83132,-95.34191,7900 Jensen Dr,Houston,77093,,False,yelp_api
+twsw_ulI4CsGFbOx3Pbt2w,WiFi Washateria,3.8,18,29.71962,-95.49003,6103 Glenmont Dr,Houston,77081,,False,yelp_api
+GyNR0m8mD-oBZCL1ncHK4g,SpinXpress,4.7,3,29.90232,-95.33415,11312 North Fwy,Houston,77037,,False,yelp_api
+3q2x70MaYIPHuDH_HI0H2w,Oasis Washateria - Mangum,5.0,1,29.8183637,-95.4597933,3303 Mangum Rd,Houston,77092,,False,yelp_api
+FLw4Zf7SW-59RaPRygj6MQ,SpinXpress Laundry - Jester Village,3.7,3,29.802651,-95.429425,1531 W 18th St,Houston,77008,,False,yelp_api
+jpyPtJPXLMEW_sP61rzVIQ,Space City Laundry,5.0,3,29.719640458376055,-95.4883088,6095 Glenmont Dr,Houston,77081,,False,yelp_api
+Ca7UamqHDrqkcv4Bs0lJMQ,Win Washateria,4.2,6,29.9150521180677,-95.439967530321,1106 W Rd,Houston,77038,$$,False,yelp_api
+kSMSKs2mptW7jjb163Ir5g,Sparkle Washateria,3.9,12,29.8119838591253,-95.556785389781,10565 Hammerly Blvd,Houston,77043,$,False,yelp_api
+bb2SpeksWRg3GWYWvYXeXw,Melbourne Familia Washateria,5.0,1,29.81619,-95.36416,524 Melbourne St,Houston,77022,,False,yelp_api
+gHqp6xPY86a10XaFGlE22w,Oasis Washateria - Post Oak,3.2,5,29.66329,-95.46432,10804 S Post Oak Rd,Houston,77035,,False,yelp_api
+HDX_fvtPLVaSSItbfgA1lw,Space City Laundry,5.0,2,29.644088605021217,-95.5035293423289,6403 W Airport Blvd,Houston,77035,,False,yelp_api
+TrC6g45i-MUsHfZBa7n3-A,Washateria Lounge,4.0,9,29.8419789313568,-95.4739756512567,,Houston,77091,$,False,yelp_api
+v4su-YqQMJ_5ahqGW4W1qA,Redwood Washateria,5.0,1,29.7171951,-95.296238,7058 Lawndale St,Houston,77023,,False,yelp_api
+Q6meAhW7SwtJAXAnInndHQ,Lavar Washateria,1.0,2,29.7520299223116,-95.3363088489155,3517 Canal St,Houston,77003,,False,yelp_api
+dbrOGgZ6RUKl7X-7xMcGMg,Laundry Room,5.0,1,29.8416,-95.40259,5116 Yale St,Houston,77018,,False,yelp_api
+B-LXg7l2dkGypVFNSTDOUQ,Jenny’s Washateria,5.0,1,29.855549091438487,-95.371616,10326 Bauman Rd,Houston,77076,,False,yelp_api
+VBEvUGS0aA7-hDANcu7I3w,Las Americas Washateria,3.0,2,29.80733,-95.38158,2216 Airline Dr,Houston,77009,,False,yelp_api
+pj4pVpilh3pYwZehYiXpFA,Express Clean Washateria,3.0,3,29.811381909181144,-95.4986536318602,8510 Hammerly Blvd,Houston,77055,,False,yelp_api
+QrnbSS91Gp5L7ogbMbBF3Q,OST Washateria,2.6,5,29.7041742,-95.3585143,5939 Scott St,Houston,77021,,False,yelp_api
+1wnKcCOTjVyUs2IuQ2Ux1A,Prime Wash House Laundromats & Cleaners,1.0,1,29.74809223,-95.32662878,97 Lockwood Dr,Houston,77011,,False,yelp_api
+_qbYETxnolKpmdDzbgblQg,Ultra Lavanderia,3.0,2,29.73374036402152,-95.2946767845662,7323 Harrisburg Blvd,Houston,77011,,False,yelp_api
+Cawxz24OiQpjfwUyWqeDew,SpinXpress,2.5,11,29.845056,-95.38585,908 E Tidwell Rd Tx,Houston,77022,,False,yelp_api
+gtJEr3PblcAPth0UIjlrVg,Jensen Washateria,0.0,0,29.7818775177002,-95.3415908813477,2206 Jensen Dr,Houston,77026,,False,yelp_api
+Ew3NYTjk_ur-OxZWIQdO5w,EMCCO Laundry Services,0.0,0,29.789973,-95.351836,3202 Hardy St,Houston,77009,,False,yelp_api
+wcrqpQpFSGKhRRwMh3F7aw,Express Washateria,2.8,6,29.8525,-95.5066,7758 W Tidwell Rd,Houston,77040,,False,yelp_api
+xp7CMW0VErY1iG-Vj1cSZg,Lathrop Laundromat,0.0,0,29.7724216,-95.3013615,908 Lathrop St,Houston,77020,,False,yelp_api
+X0IQo9fFv434dzA3klwUfg,Sunflower Washateria,0.0,0,29.8041349,-95.3749841,212 W Cavalcade St,Houston,77009,$,False,yelp_api
+O-XcTZTSaHuKUis_y1w1cQ,Washateria,1.0,1,29.681351646246025,-95.43927247976283,9315 Stella Link Rd,Houston,77025,,False,yelp_api
+VWwilPubSiv6mc1myaEhYg,Spin Wash,1.0,1,29.86286,-95.42697,7510 W Montgomery Rd,Houston,77091,,False,yelp_api
+c1FEHTqWxO3LkBF0JoLKug,Clean Spin Washateria,3.7,6,30.020546793791222,-95.5224047,16710 Stuebner Airline Rd,Spring,77379,,False,yelp_api
+1lrtIqdYkBjhvipwuePt0g,Broadway Washateria,3.0,2,29.66626,-95.27737,8540 Broadway St,Houston,77061,,False,yelp_api
+yY2eE2zESEGw9VVP0VnJrg,Maytag Coin Laundry,0.0,0,29.78184,-95.40892,600 N Shepherd Dr,Houston,77007,,False,yelp_api
+Ys7Ve7f9eM-ZlWXTm5Xpjg,Clutch City Laundry,0.0,0,29.728911921967946,-95.5019117,3330 Hillcroft St,Houston,77057,,False,yelp_api
+rsAGsyGx9QxlVMbszz0fQQ,EZ Wash,2.0,2,29.8294969136456,-95.4094922170043,4432 N Shepherd Dr,Houston,77018,,False,yelp_api

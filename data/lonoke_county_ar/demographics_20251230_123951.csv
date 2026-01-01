@@ -1,0 +1,16 @@
+neighborhood,population,median_income,renter_rate,median_age,area_sq_miles,population_density,data_source
+Downtown,50000,65000,0.75,32,2.5,20000.0,synthetic
+Koreatown,42000,52000,0.82,28,3.2,13125.0,synthetic
+East LA,38000,42000,0.68,35,4.5,8444.444444444445,synthetic
+South LA,55000,38000,0.71,33,5.2,10576.923076923076,synthetic
+Hollywood,35000,58000,0.77,29,3.8,9210.526315789473,synthetic
+Venice,28000,85000,0.65,31,4.1,6829.2682926829275,synthetic
+Santa Monica,30000,78000,0.58,38,3.5,8571.42857142857,synthetic
+Pasadena,45000,72000,0.55,42,2.8,16071.428571428572,synthetic
+Long Beach,52000,55000,0.72,34,4.2,12380.95238095238,synthetic
+Glendale,40000,68000,0.62,36,3.6,11111.111111111111,synthetic
+Burbank,38000,62000,0.58,35,3.2,11875.0,synthetic
+Culver City,32000,70000,0.68,33,2.9,11034.48275862069,synthetic
+Inglewood,44000,48000,0.75,31,4.0,11000.0,synthetic
+Compton,36000,35000,0.78,28,3.8,9473.684210526317,synthetic
+Watts,28000,32000,0.8,30,3.5,8000.0,synthetic

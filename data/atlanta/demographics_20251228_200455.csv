@@ -1,0 +1,3 @@
+tract_name,population,median_income,B25003_002E,B25003_003E,state,county,tract,total_housing,renter_rate,area_sq_miles,population_density,median_age,data_source
+Census Tract 9501; Calhoun County; Georgia,2778,46167,349,145,13,037,950100,494,0.2935222672064777,1.0,2778.0,35,census_api
+Census Tract 9502; Calhoun County; Georgia,2816,48961,631,372,13,037,950200,1003,0.3708873379860419,1.0,2816.0,35,census_api

@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+ebHrIgLyCqEywt3e28YfKQ,Miami Wash and Fold Coin Laundry,4.7,13,25.7579,-80.23081,2200 SW 16th St,Miami,33145,,False,yelp_api
+uu1L8C1bb1woOw8ebKNZkQ,Mary’s Cafe & Coin Laundry,4.1,259,25.74446,-80.2383399,2542 SW 27th Ave,Miami,33133,$,False,yelp_api
+dzzXiQV1OwEVmjUiSMsreQ,Zoe Dry Cleaners,3.1,8,25.75467,-80.28793,1704 SW 57th Ave,Miami,33155,,False,yelp_api
+sCukFf0RbOdcK7TQZybtJQ,Becerra Coin Laundry,4.3,11,25.76301,-80.29918,6360 SW 8th St,West Miami,33144,,False,yelp_api
+qZR19j0YWOczDQOSBfhDTQ,Granada Coin Laundry,3.7,18,25.764066,-80.273893,4817 SW 8th St,Coral Gables,33134,$,False,yelp_api
+SouuEF-fJEWECjxguUr-zA,A LAUNDROMAT BY FIU,5.0,1,25.7599948,-80.3666007,10560 SW 8th St,Miami,33174,,False,yelp_api
+Aw4KGXBq3JNxZNnQNXD5sg,A Laundromat,4.3,4,25.7618968623966,-80.2226718887687,1172 SW 17th Ave,Miami,33135,$,False,yelp_api
+Iy9kOxx-x3WzLtJhu3HR1A,A Laundromat of Miami SW 8th St,3.7,6,25.76508,-80.2514,3401 SW 8th St,Miami,33135,,False,yelp_api
+QK_w9ibJIIVEdlRqxOtukA,Killian Laundromat,3.8,66,25.671258,-80.3713026,10862 SW 104th St,Miami,33176,$$,False,yelp_api
+uwHdJE4QJf10NV-hE66Wcw,City Wide Coin Laundry,3.8,12,25.750633,-80.237747,2625 Coral Way,Coral Gables,33145,$$,False,yelp_api
+hGrXXIDfIK0VJ7iqD5Vakg,Flagler Laundromart,3.4,5,25.77017833,-80.31384417,7289 W Flagler St,Miami,33144,$,False,yelp_api
+hY_mBaJXKQBjAC31aZsnew,SPA Laundromat,4.7,6,25.83179,-80.23198,2145 NW 62nd St,Miami,33147,,False,yelp_api
+b4o3WCp0EmPwlJN1ZANriQ,Wash House Coin Laundry,4.2,34,25.8325971,-80.1874536,6103 NE 4th Ct,Miami,33138,$$,False,yelp_api
+MyyjLRYhx_R3IZ7PqIZPvg,Scrub-A-Dub Coin Laundry,3.1,19,25.732109,-80.30297,4130 SW 67th Ave,Miami,33155,$$,False,yelp_api
+kKrh8ImaBz_y8LtlOqjnpA,Coral Gables Coin Laundry,4.1,7,25.7586708,-80.2592621,1406 Ponce De Leon Blvd,Coral Gables,33134,$$,False,yelp_api
+lMqxqBmCOQSVl58RGvR8vg,Laundromart,2.6,12,25.780431,-80.215965,1259 NW 7th St,Miami,33125,,False,yelp_api
+2VVWjvV7qIFi6TJzw6C-AQ,Bubbles Coin Laundry,4.1,10,25.75478,-80.23053,1810 SW 22nd Ave,Miami,33145,,False,yelp_api
+rKZ2EuuiWHq4jOub03_ptw,Magic Cycle Laundry #3,4.0,1,25.769606,-80.350483,9469 W Flagler St,Miami,33174,,False,yelp_api
+tiKOQT79IsQr4-q8Rs8qPQ,Laundry Haven,4.1,17,26.0320550341726,-80.2068826311201,5940 Sheridan St,Hollywood,33021,,False,yelp_api
+wF44JuT3JFN-MdM0QyUreg,Caribbean Coin Laundry,4.0,1,25.7713279698959,-80.2715112268925,4731 Flagler St,Miami,33134,$$,False,yelp_api
+ezMFKhEfR4aIOs64MUs7zg,Jc Coin Laundry,3.4,5,25.790601577195577,-80.23930375461832,1677 NW 27th Ave,Miami,33125,,False,yelp_api
+lf3aNwbT0AOy5vLTbO9uwA,Chuck's Coin Laundry,2.5,2,25.7587057869092,-80.2878676727414,1340 SW 57th Ave,Miami,33184,,False,yelp_api
+4j4z7iIH9c4bT4Cg8rklHQ,Master Coin Laundry,5.0,1,25.779569414453785,-80.23172050210114,2222 NW 7th St,Miami,33125,,False,yelp_api
+9-bd6-0EkBdSAZbZ3OgI9A,Personal Touch Valet Cleaners & Tailors,3.3,34,25.800577,-80.189716,250 NE 25th St Biscayne Blvd,Miami,33137,$$,False,yelp_api
+tRXKDkflIsQjSQR79LkOrA,Milys Place Laundromat,2.1,11,25.7642035694309,-80.2604418932138,3954 8th Ave,Miami,33134,$,False,yelp_api
+9qgIL1v-VZTs2ofXlzQnmw,Big Wash Coin Laundry,3.1,16,25.824224,-80.221977,1498 NW 54th St,Miami,33142,$,False,yelp_api
+W_0N0vqZ6Ekz1KJ-uRnhHg,Little Havana laundry,3.0,11,25.765666571113464,-80.21794236158274,1360 SW 8th St,Miami,33135,,False,yelp_api
+AwZbPCwqxJejYMva-LtP8g,El Tio Coin Laundry Cafe,4.5,2,25.790572,-80.223414,1660 NW 17th Ave,Miami,33125,,False,yelp_api
+2NeJwueHZQ7XNv56tFZDWA,Coin Laundry One,3.3,3,25.7707799,-80.28094,5222 W Flagler St,Coral Gables,33134,,False,yelp_api
+JJNUNB8fq0-nN38Q5hNTSQ,Mily's Place Laundromat,2.0,12,25.7643681,-80.2605743,3954 SW 8th St,Coral Gables,33134,$$$,False,yelp_api
+O4GqVHWJgL465wmWCH9iYQ,Laundromart,3.0,10,25.76625,-80.21179,1019 SW 8th St,Miami,33130,,False,yelp_api
+VlFPMoIj0g3TSF2eaOkpBg,EZ Bubbles Coin Laundry,2.4,5,25.76508,-80.2514,3401 SW 8th St,Miami,33135,,False,yelp_api
+-qfkbMcBmBPbzGI52mWFBg,City Laundry,3.3,4,25.701256931934285,-80.33549404485193,8754 SW 72nd St,Miami,33173,,False,yelp_api
+OpdZVDWzBH-eT4VC6fXwgQ,Sunshine Coin Laundry,0.0,0,25.75487,-80.30342,1663 SW 67th Ave,Miami,33155,,False,yelp_api
+FfJjUc8v32sgd8Vzi39pOg,Rush Laundry,4.0,4,25.733601166,-80.3762945,3874 SW 112th Ave,Miami,33165,,False,yelp_api
+RA1YhLXLB7FODP2wiIdWtQ,Pure Spin Laundry - Hialeah,5.0,3,25.87672,-80.31577,5966 W 16th Ave,Hialeah,33012,,False,yelp_api
+m1xISDG9TDo-oFAdsBhSSw,Normandy Laundry,5.0,3,25.851511,-80.141623,1977 71st St,Miami Beach,33141,,False,yelp_api
+5AoVsifUzUkTIWwfkvaRIA,Lavadito Coin Laundry,0.0,0,25.76301382024076,-80.29912259999999,6360 SW 8th St,West Miami,33144,,False,yelp_api
+GB4QrhyhkEtuya9xwh6e1g,Sunset Place Coin Laundry,3.0,19,25.70223,-80.36932,10855 SW 72nd St,Miami,33173,$$,False,yelp_api
+h3JBOHUohq5Qh2eKvV4bNg,ARW Coin Laundry,5.0,1,25.788399,-80.222743,1453 NW 17th Ave,Miami,33125,,False,yelp_api
+CX2vtnC2yQnboEldRBvfig,Laundromart,3.3,3,25.8464543,-80.2347699,2205 NW 79th St,Miami,33147,,False,yelp_api
+nQW62c87cL3uj552VWAGxw,Laundromart,3.3,4,25.8091383,-80.2896133,3800 Curtiss Pkwy,Miami Springs,33166,,False,yelp_api
+TkPoUKJ3uQ1yuE8ayEdyyw,Coin Laundry Mania,2.8,12,25.76987,-80.35066,9469 W Flagler St,Miami,33174,$,False,yelp_api
+Gn-bCBG9Lo3yTycsK1zpMg,New Horizons Coin Laundry,2.0,1,25.7603893,-80.30513,1064 SW 67th Ave,Miami,33144,,False,yelp_api
+RmJk9ddRbtMU7MeKhNDRjg,Joanny Coin Laundry,1.0,3,25.7749048614533,-80.3506511449814,9626 Fontainebleau Blvd,Miami,33172,$$$,False,yelp_api
+zW-5XWwGs0n5HjcDuC4qLw,Aqua Coin Laundry,5.0,1,25.84841697,-80.3050480697,1145 W 29th St,Hialeah,33012,,False,yelp_api
+9C129GGn62f_DnflGB_Y7g,Hialeah Coin Laundry,5.0,2,25.8641634,-80.2829349,4640 42 Palm Ave,Hialeah,33012,,False,yelp_api
+Qzl9Ih_BoTJnv4OGoViCPw,Fresh Lime Dry Cleaners,4.0,2,25.8455282,-80.3702582,7885 NW 107th Ave,Doral,33178,,False,yelp_api
+upiTK41UEGDZEhqOFOhnlg,EZ Bubbles Coin Laundry,1.0,2,25.7619812,-80.2225497,1172 SW 17th Ave,Miami,33135,,False,yelp_api
+RtNIFrPzoYovphAymXRuKQ,Tu Hugar Coin Laundry,0.0,0,25.7792215,-80.2708765,4577 NW 7th St,Miami,33126,,False,yelp_api

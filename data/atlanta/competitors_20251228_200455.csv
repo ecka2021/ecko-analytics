@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+of8tB5TSYyzaASBNScsVSQ,The Laundry Lounge,4.4,113,33.81269473004445,-84.35489477354245,2100 Cheshire Bridge Rd NE,Atlanta,30324,$,False,yelp_api
+SfI-0fTOxZqSmiZC7lLaLw,Atlanta Laundry Company,5.0,11,33.812686,-84.354864,2100 Cheshire Bridge Rd NE,Atlanta,30324,,False,yelp_api
+eZL45W-jwZPo62WsLQoC-A,Midtown Wash,4.3,118,33.775987,-84.37742,307 6th St NE,Atlanta,30308,$$,False,yelp_api
+WbEeHYoAYcsbjw-L3edKag,Patio Laundry,4.6,25,33.85787,-84.31271,3904 Buford Hwy NE,Atlanta,30329,,False,yelp_api
+pEH3z0mvbMgfYxCAozxeAw,Brookhaven Laundry,3.8,46,33.834379,-84.338156,2987 Buford Hwy NE,Atlanta,30329,$,False,yelp_api
+GrJN1p3GwcJ6VklhEl8kAw,Midtown Cleaners & Laundry,3.8,59,33.77068,-84.35227,599 N Highland Ave NE,Atlanta,30307,$,False,yelp_api
+lBNqh4BZAwJgEjJwozOW0A,Hapeville Coin Laundry,4.1,33,33.6621,-84.41379,761 N Central Ave,Atlanta,30354,$$,False,yelp_api
+GPuupIXbRBEcpBMo82XLLg,Oasis Laundry,4.4,9,33.986605,-84.351541,8540 Roswell Rd,Sandy Springs,30350,,False,yelp_api
+vrBVxyRPfj0uKUQVgwzoAA,Cozy Clean Laundry,5.0,22,33.766582,-84.252678,4065 Memorial Dr,Decatur,30032,$,False,yelp_api
+FBOq4jcvy8zwmUqW_gRhww,Speed Queen Laundry,4.2,50,33.7336948657244,-84.284230648713,1944 Candler Rd,Decatur,30032,$$,False,yelp_api
+kSIQe4q-lLE5F-1rGceL1A,Wash Away Laundromat,5.0,7,33.53873,-84.362728,7891 N Main St,Jonesboro,30236,$,False,yelp_api
+Vn_k24oUXEJ-3uetTiDSUg,Patio Laundry,4.4,56,33.9523147895648,-84.2409999,3400 Holcomb Bridge Rd,Peachtree Corners,30092,$$$,False,yelp_api
+7Z8m9wmquuLkWjn6xMAEMQ,Tropical Breeze Laundromat,4.1,19,33.72111851190212,-84.35036679599284,1229 Moreland Ave SE,Atlanta,30316,$,False,yelp_api
+t5neBOnMSdFHegQfV5NU2w,Speed Queen Laundry,3.7,26,33.74093,-84.41596,855 Oak St SW,Atlanta,30310,$,False,yelp_api
+NgSUXXnNPvcUEvMYD_sHRA,Ralph's Cleaners,3.1,14,33.8109899,-84.42574,1170 Collier Rd NW,Atlanta,30318,$,False,yelp_api
+ms5Xhm1Kcmgn3TZHC-qbaQ,Metro Laundry,5.0,3,33.73763,-84.43513,1450 Donnally Ave SW,Atlanta,30310,,False,yelp_api
+ZefQeg9GE_VytGu7P8QZFQ,The Laundry Link,4.7,36,34.02684,-84.52877,3095 Canton Rd,Marietta,30066,,False,yelp_api
+KECyBhZ54rVJRxXpjw8OsQ,Spin Cycle Coin Laundry & Wash and Fold Service,4.4,12,33.7541739,-84.2685798,3537 Memorial Dr,Decatur,30032,$$,False,yelp_api
+IKwPNQWNW_tJusKfZV4rag,Pura Vida Laundry Services,4.4,43,33.8487151,-84.2040607,4511 Hugh Howell Rd,Tucker,30084,$$,False,yelp_api
+4OTNfxVYp8W0MNjX6-tkNA,Coin Laundry,5.0,3,33.75122028201409,-84.48619335645301,3050 Martin Luther King Jr Dr,Atlanta,30311,,False,yelp_api
+xTjdYsNsUXFaGIUfPmVyWQ,Maysa Ruby Coin Laundry,4.6,25,33.94257611319552,-84.27148445889331,5020 Winters Chapel Rd,Dunwoody,30360,,False,yelp_api
+04yR15rudpKx-rIZ-34fkA,Sunshine Laundromat,5.0,1,33.837038582568255,-84.33532264723884,3045 Buford Hwy NE,Atlanta,30329,,False,yelp_api
+XiwzTK8jlcuBSuAoiX9Yaw,Marietta Coin Laundry,4.8,5,33.9070731119664,-84.48946027585662,1869 Cobb Pkwy S,Marietta,30060,,False,yelp_api
+kkote6pZKiaaf0Dpg7Kc4w,Brite Bubbles,3.7,18,33.7139499,-84.3682,590 McDonough Blvd,Atlanta,30315,$$,False,yelp_api
+ar6XBt5vDVYRJOERLEY5qw,The Laundry Basket,4.0,4,33.909735,-84.3791544,5680 Roswell Rd NE,Atlanta,30342,,False,yelp_api
+FgkOwkB2G9GfsbT7U6wFLg,Spin King Laundromat,4.5,10,33.552146,-84.3002,2771 Mt Zion Pkwy,Jonesboro,30236,,False,yelp_api
+uPbwbr9xgUYiA4bvgtGYQw,Terrell Mill Coin Laundry,4.6,10,33.908206,-84.488134,1854 Terrell Mill Rd SE,Marietta,30067,$,False,yelp_api
+hSVWNzlL_Yzb3SCzykgrDQ,Number 1 Coin Laundry,3.8,8,33.910496,-84.380109,215 Northwood Dr,Atlanta,30342,$$,False,yelp_api
+fYc7ar_pQGM7tnuw0_kXeA,Rinse Cycle Coin Laundry,4.2,6,33.885770965675,-84.2562640600596,3350 Chamblee Tucker Rd,Atlanta,30341,,False,yelp_api
+gSfXdCCq2CTZfxkQSnS5gg,Fashionaid Laundromat,1.0,1,33.796135,-84.370399,1512 Piedmont Ave NE,Atlanta,30324,$$,False,yelp_api
+aOXthm-h1XGvfaYxrsBgOw,Sixth Street Coin Laundry,3.3,3,33.7761387974024,-84.3772859126329,307 6th St NE,Atlanta,30308,,False,yelp_api
+P9MIkuQQkU7dThqcsFyPig,Huebsch Laundry,3.2,37,33.969924,-84.147505,2615 Pleasant Hill Rd,Duluth,30096,,False,yelp_api
+2HEGImTdqobxHkXaZp9LiQ,Tops Coin Laundry,5.0,1,33.8656,-84.28933,2691 Shallowford Rd NE,Atlanta,30341,$$,False,yelp_api
+bvAjT75Al7RF2nGf9c7Fyw,The Laundry Centers,1.0,1,33.77279,-84.41689,902 Donald Lee Hollowell Pkwy NW,Atlanta,30318,,False,yelp_api
+RwFWUJHfB0g1hm5iO_kWxQ,Express In & Out,5.0,1,33.824264,-84.231438,1353 Brockett Rd,Clarkston,30021,,False,yelp_api
+7UFyXghMa7vwoWb47eGE2Q,Our Best Laundry,5.0,1,33.75178715337052,-84.4918369,3202 Mlk Jr Dr SW,Atlanta,30311,,False,yelp_api
+8SSTtfDDtEsy5OHChzDc4A,Buford Hwy Coin Laundry,3.0,2,33.8431063,-84.3283162,3375 Buford Hwy NE,Atlanta,30329,$,False,yelp_api
+cdbmzjppY8AOLKZcAg3lvQ,Lucky Dog Laundry,0.0,0,33.735468,-84.286621,1885 Candler Rd,Decatur,30030,,False,yelp_api
+Uty4L162LG5lkeUEvN7qew,Oakhurst Laundry & Cleaners,3.4,16,33.759481,-84.303612,655 E Lake Dr,Decatur,30030,$$,False,yelp_api
+HH8zoKFQKUfivd22Xz8vXw,Corner Shop Coin Laundry,2.0,1,33.8448524475098,-84.3271560668945,3390 Buford Hwy NE,Atlanta,30329,,False,yelp_api
+Saq0hTJb4IIA00zpQ96otA,Norcross Coin Laundry,5.0,3,33.93486249028799,-84.21680431915888,5985 Buford Hwy,Norcross,30071,,False,yelp_api
+-HCa7BzfP9x4rbcYdTDPGw,Ruby Coin Laundry,2.0,2,33.8548812866211,-84.3147430419922,3799 Buford Hwy NE,Atlanta,30329,,False,yelp_api
+u9vPZKXo3fKGaN80wP79_A,Won Jo Lee,3.5,2,33.90823,-84.26686,5781 Buford Hwy NE,Atlanta,30340,$,False,yelp_api
+4lEzmDQ9zZBMVmlLyhk3oQ,Westside Laundry,5.0,1,33.93425,-84.5563,700 Sandtown Rd SW,Marietta,30008,,False,yelp_api
+bVZ4wnYfViRkm74RQyjKJg,Always Fresh Laundromat,3.0,2,33.708008,-84.454564,1999 Campbellton Rd SW,Atlanta,30311,,False,yelp_api
+njj5IKi4IIVcLkkaTsShIQ,Palacio Coin Laundry,3.0,2,33.88978,-84.28904,3160 Chamblee Dunwoody Rd,Atlanta,30341,,False,yelp_api
+EXmtdUPlYaAjO0wBco4PxQ,PTC Laundromat,2.0,3,33.9447,-84.25139,3330 Peachtree Corners Cir,Norcross,30092,,False,yelp_api
+QVUnEn4mXK_t_1cu-oakOA,Clean-N-Care Cleaners,5.0,1,33.603709,-84.471519,5550 Old National Hwy,College Park,30349,,False,yelp_api
+rhY1SenIPuAt3onBI5sVYQ,Buford Coin Laundry Lavanderia,3.6,7,33.90739401718228,-84.26991206340641,5710 Buford Hwy NE,Doraville,30340,,False,yelp_api
+acX3CLZ7y5OoHUHfBK_OnQ,Coin Laundry,5.0,1,33.75866,-84.242321,3881 Covington Hwy,Decatur,30030,,False,yelp_api

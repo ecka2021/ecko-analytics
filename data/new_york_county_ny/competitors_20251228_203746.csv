@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+Rka6JDIFT-S4P8fCX3boHw,Gentle Wash Laundromat,4.3,225,40.7256869,-73.9839901,97 Avenue A,New York,10009,$,False,yelp_api
+iK9NORi6CgFHu69tQJ07fg,On The Go Cleaners,4.8,62,40.74727,-73.9800645,,Kips Bay,10016,$,False,yelp_api
+aKariLr6Tt02CL4nMnMNdA,Jane Laundromat,4.2,108,40.738475,-74.003481,50 8th Ave,New York,10014,$,False,yelp_api
+iKNkDEB4S-BiM1HH5Y1pRw,Delancey Laundromat,4.5,32,40.7198684,-73.9933453,9-11 Delancey St,New York,10002,$,False,yelp_api
+X7jlG9soc2elNEXmZCWJeQ,Ludlow Laundromat,4.7,23,40.717349914511,-73.9898699149489,67 Ludlow St,New York,10002,,False,yelp_api
+mwZvC4kXYcFh8-dMF5D-mA,Sunshine Laundromat & Pinball,4.5,135,40.72926415659234,-73.953750381601,860 Manhattan Ave,Brooklyn,11222,$$,False,yelp_api
+k7HJBq-_C9BkC_8ba3FtXA,ABC Laundromat and Drycleaners,4.8,17,40.7294769287109,-73.9788818359375,534 E 14th St,New York,10009,$,False,yelp_api
+APXC7jPpAM_tE5PZK1fV7A,Daily Bubble Laundromat,4.8,27,40.72057,-73.99899,176 Lafayette St,New York,10013,,False,yelp_api
+Z3jGnrcuFvjSMFQ1wUo3dA,Crystal Dry Cleaners,4.2,65,40.735019,-73.9802593,350 E 20th St,New York,10003,$,False,yelp_api
+v5AS25Ja26u6mwhri8-BYA,Village Bleachers,4.3,19,40.7334174250802,-73.9937460907087,34 E 11th St,Manhattan,10003,$,False,yelp_api
+z0qNmuELnszaJI5wXvexCA,Madison Supreme Laundromat,4.6,22,40.712067902277,-73.9964755855794,80 Madison St,New York,10002,$,False,yelp_api
+FvGbq3Bbe6I3YbTErOG7rw,Laundry & Latte,5.0,6,40.69354,-73.99853,6 Columbia Pl,Brooklyn,11201,,False,yelp_api
+1ZvkpmMaHKRdoIM2q9rfmw,Clean N Green Laundry,4.3,172,40.6654434204102,-73.9794845581055,,Brooklyn,11215,$$,False,yelp_api
+AJ14R-xxgfQ6kQ0BlDgoIQ,Clean Avenue Laundry,4.7,13,40.75248,-73.97342,,New York,10017,,False,yelp_api
+bDvjYlgcbzUExFMoXDW5aw,The Eco Laundry Company,4.2,151,40.7420752,-73.9998348,249 W 18th St,New York,10011,$$,False,yelp_api
+7s8Urt-O9Ntie0iwe1wLRQ,Tai Looney Laundromat,4.7,21,40.71863,-73.99218,299 Broome St,New York,10002,$,False,yelp_api
+i2gDjk4vzzW0XlQWMcG-Gw,Central Wash Laundromat,5.0,7,40.71162199303913,-73.94635551617982,649 Grand St,Brooklyn,11211,,False,yelp_api
+yB2kIF5ZRASquoPUxDUM9w,Supreme Laundromat,4.5,16,40.72472,-73.98173,96 Ave B,New York,10009,$$,False,yelp_api
+71n4oKBW_Pj_3nL61CLq8w,Crowning Laundromat,4.6,14,40.7396801019635,-73.9798300713301,455 2nd Ave,New York,10010,,False,yelp_api
+77DmuDvsR1gD3znX0YBGAA,You's Cornelia Street Laundromat,3.8,54,40.731519,-74.002386,30 Cornelia St,New York,10014,$,False,yelp_api
+dKKnuf38WZzJ5ikFQ6hwNQ,All Fresh Laundry & Dry Cleaners,5.0,6,40.800902,-73.965614,944 Amsterdam Ave,New York,10025,,False,yelp_api
+hcTqh62irj-KMISq2MqWsQ,Suds Buds,4.4,9,40.729423,-73.978595,540 E 14th St,New York,10009,,False,yelp_api
+h2E_xR0l0iBf4KXB7vICiw,Launderette New York,5.0,4,40.713287,-73.957592,285 Grand St,Brooklyn,11211,,False,yelp_api
+H-XMBpEJSyQaixnXLRX7cA,Si Laundromat,4.7,54,40.70869,-73.9544,340 S 4th St,Williamsburg,11211,$$,False,yelp_api
+JUSpjQBaLYgx8lykBaJZ3w,Liox Cleaners,3.4,232,40.71572765395086,-73.9862971653199,,New York,10002,$$,False,yelp_api
+smwzk-oMNro5OrqtE9t7rA,Brooklyn Sudz,4.2,18,40.688018,-73.986983,86 Hoyt St,Brooklyn,11201,,False,yelp_api
+1WpbP5eXWzDi7RxNorCdWQ,Tian Tian Laundromat,4.1,66,40.720340880585425,-73.99011517713366,137 Allen St,New York,10002,$,False,yelp_api
+lSUJaaDYRS1Nw2rOqCo_4A,BK Laundry,4.1,14,40.66502,-73.99302,593 4th Ave,Brooklyn,11215,,False,yelp_api
+hzNZWbG_2wsfDmbTOI6qCQ,Lin Laundry Mat,3.6,81,40.72974,-73.983398,194 1st Ave,New York,10009,$$,False,yelp_api
+kqcpyQgiJdGPS9Tbp3_3cw,Laundro Mark Lu Laundromat,4.7,43,40.686407,-73.947007,474 Gates Ave,Brooklyn,11216,$,False,yelp_api
+vPFjojFGEAxrMvlE7cfHGg,Crystal Bubbles Laundromat,4.6,68,40.626167,-74.030273,8210 3rd Ave,Brooklyn,11209,$,False,yelp_api
+MXigKGdgyxJE8KJl6SMqQA,Laverie,3.7,9,40.72718,-74.00162,149 Sullivan St,New York,10012,,False,yelp_api
+QOhzwzRkk2P7UsIh2D-M4A,Grandma Laundromat,4.3,10,40.7160224,-73.992395,35 Allen St,New York,10002,$,False,yelp_api
+xL4ZuilwzQ6r_MHMN4YqRw,The Perfect Laundromat,5.0,8,40.69877301436791,-73.9266360815246,176 Central Ave,Brooklyn,11221,,False,yelp_api
+ZeJAz_VFOHs4j5wTSGpYpA,Express 1 Laundromat,4.0,43,40.7466315,-73.9469543,21-39 45th Rd,Long Island City,11101,$,False,yelp_api
+f1jvVM6R4Be2DSIdf9mP-g,Laundry On Keap,4.8,10,40.71241,-73.95264,449 Keap St,Brooklyn,11211,,False,yelp_api
+fy5gJzU0hhKt7t5Eap56LQ,The Soap Box,4.4,67,40.68285,-73.91729,110 Saratoga Ave,Brooklyn,11233,$$,False,yelp_api
+O3tRcnTCwOtj2BEwDIghlg,Three Stars Laundromat,4.3,23,40.693401,-73.968093,439 Myrtle Ave,Brooklyn,11205,$$,False,yelp_api
+OHWQ3eTaoyUQgceg7YBJGQ,2 Boys Laundromat,4.7,89,40.77228,-74.02814,408 33rd St,Union City,07087,$,False,yelp_api
+ib6EDBa0KkERlADXljlgeA,Best Suds Laundry,4.8,5,40.6502206,-74.0053985,4102 5th Ave,Brooklyn,11232,,False,yelp_api
+1OAFtRu3V2zz_tCoEAJFAA,Laundry To Go,5.0,2,40.714166,-73.991037,148 E Broadway,New York,10012,,False,yelp_api
+Yg7cRYwDydXGu2O5tXxYQQ,Sunflower Laundromat,5.0,13,40.62345,-73.93154,4517 Avenue L,Brooklyn,11234,,False,yelp_api
+b_DnUKFGumZyCm-OOyV4uQ,New Spring Cleaners,3.4,60,40.73849614096073,-74.00399409163292,45 8th Ave,New York,10014,$$,False,yelp_api
+Ql9eOWLobjMzz8klq-t-Ow,Min81 Laundromat,5.0,2,40.715414268596,-73.9929899945855,81 Canal St,New York,10002,,False,yelp_api
+7VC8UIsZBMhvsSG_GXLnmw,Capri Laundry Room,4.2,128,40.7643511,-73.9592735,343 E 66th St,New York,10065,,False,yelp_api
+V1lL3Cv0-N5Id3d1q_nBUA,Ocean Laundromat,4.3,15,40.7057,-73.91882,104 Saint Nicholas Ave,Brooklyn,11237,$,False,yelp_api
+1kMMOLoEHBFV8d4RCR6pUA,Ten St Laundromat,3.9,23,40.7278823852539,-73.9828796386719,286 E 10th St,New York,10009,$,False,yelp_api
+lyf-LHxWuBpZHbGn3sGl8Q,Neighborhood Laundormat,4.2,21,40.69080590253347,-73.93382,136 Stuyvesant Ave,Brooklyn,11221,$,False,yelp_api
+nSDh51Q50s5yCTlTVAj_gw,Liox Cleaners,3.7,33,40.7059211730957,-74.0130233764648,,New York,10004,$$,False,yelp_api
+drgcUNlRvtnAdcIv74JGPg,P & K Laundromat,4.4,132,40.78441,-73.97763,432 Amsterdam Ave,New York,10024,$,False,yelp_api

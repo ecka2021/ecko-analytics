@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables - CRITICAL: NEVER COMMIT
+.env
+*.env
+.env.local
+.env.production
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+analysis.log
+data_collection.log
+
+# Generated data files (city-specific, created by analysis)
+data/*/demographics_raw.csv
+data/*/competitors_raw.csv
+data/*/zip_demographics.csv
+data/*/tract_to_zip_mapping.csv
+data/*/metadata.json
+
+# Keep core reference data (NEEDED for app to work!)
+# These are small, static files that should be in repo:
+# - us_zip_database.csv
+# - county_database.csv  
+# - zip_tract_crosswalk.csv
+
+# Generated outputs (analysis results)
+outputs/*/
+outputs/*.csv
+outputs/*.txt
+outputs/*.pdf
+!outputs/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project specific - temporary files
+*.tmp
+*.bak
+*.cache
+*.swp
+test_*.py
+scratch.py

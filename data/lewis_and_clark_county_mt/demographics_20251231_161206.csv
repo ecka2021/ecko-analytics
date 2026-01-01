@@ -1,0 +1,18 @@
+tract_name,population,median_income,B25003_002E,B25003_003E,state,county,tract,total_housing,renter_rate,area_sq_miles,population_density,median_age,data_source
+Census Tract 1; Lewis and Clark County; Montana,1856,43966,677,203,30,049,000100,880,0.23068181818181818,1.0,1856.0,35,census_api
+Census Tract 2; Lewis and Clark County; Montana,6467,98736,2003,153,30,049,000200,2156,0.07096474953617811,1.0,6467.0,35,census_api
+Census Tract 3; Lewis and Clark County; Montana,2605,104250,1094,84,30,049,000300,1178,0.07130730050933787,1.0,2605.0,35,census_api
+Census Tract 4; Lewis and Clark County; Montana,6617,75260,1821,702,30,049,000400,2523,0.27824019024970276,1.0,6617.0,35,census_api
+Census Tract 5.01; Lewis and Clark County; Montana,4451,80833,1409,255,30,049,000501,1664,0.15324519230769232,1.0,4451.0,35,census_api
+Census Tract 5.03; Lewis and Clark County; Montana,4364,74786,1145,947,30,049,000503,2092,0.45267686424474185,1.0,4364.0,35,census_api
+Census Tract 5.04; Lewis and Clark County; Montana,2849,60500,993,265,30,049,000504,1258,0.21065182829888712,1.0,2849.0,35,census_api
+Census Tract 6; Lewis and Clark County; Montana,2769,82353,992,70,30,049,000600,1062,0.06591337099811675,1.0,2769.0,35,census_api
+Census Tract 7.01; Lewis and Clark County; Montana,2532,73750,855,208,30,049,000701,1063,0.19567262464722485,1.0,2532.0,35,census_api
+Census Tract 7.02; Lewis and Clark County; Montana,5187,67070,1521,668,30,049,000702,2189,0.3051621745089082,1.0,5187.0,35,census_api
+Census Tract 8; Lewis and Clark County; Montana,4290,46731,682,1340,30,049,000800,2022,0.6627101879327398,1.0,4290.0,35,census_api
+Census Tract 9; Lewis and Clark County; Montana,4362,62861,954,1091,30,049,000900,2045,0.5334963325183374,1.0,4362.0,35,census_api
+Census Tract 10; Lewis and Clark County; Montana,3922,79864,1264,787,30,049,001000,2051,0.38371526084836666,1.0,3922.0,35,census_api
+Census Tract 11.01; Lewis and Clark County; Montana,2658,70907,592,672,30,049,001101,1264,0.5316455696202531,1.0,2658.0,35,census_api
+Census Tract 11.02; Lewis and Clark County; Montana,4208,79760,1139,724,30,049,001102,1863,0.38862050456253355,1.0,4208.0,35,census_api
+Census Tract 12.01; Lewis and Clark County; Montana,7042,67434,2411,494,30,049,001201,2905,0.17005163511187607,1.0,7042.0,35,census_api
+Census Tract 12.02; Lewis and Clark County; Montana,5308,81761,1802,264,30,049,001202,2066,0.12778315585672798,1.0,5308.0,35,census_api

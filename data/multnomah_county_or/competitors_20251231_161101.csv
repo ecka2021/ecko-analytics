@@ -1,0 +1,45 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+rVKID2OBQMyVpraqSjz9sg,Spin Laundry Lounge,4.6,368,45.54764,-122.67432,750 N Fremont St,Portland,97227,$$,False,yelp_api
+48cqlPtYTSByW6hZy59N4w,Spin Laundry Lounge,4.2,84,45.53479,-122.641614,2326 NE Broadway,Portland,97232,$$,False,yelp_api
+bnMQ_ocohrmNt_hiDf22PA,Woodstock Laundromat,4.5,36,45.479014,-122.613672,4740 SE Woodstock Blvd,Portland,97206,$$,False,yelp_api
+WZWRDQc9tz53VvuJHUeDxA,Bridgetown Laundry,4.5,10,45.46232,-122.61572,4437 SE Johnson Creek Blvd,Portland,97222,,False,yelp_api
+LV6U4Jkc7P-Ntn-7FPUv5Q,Belmont Eco Laundry,3.7,66,45.51184,-122.63511,2942 SE Hawthorne Blvd,Portland,97214,$$,False,yelp_api
+El1-bidaluSOYjYaHdKg1w,Alpine 24 Hour Laundry,3.7,42,45.5774726867676,-122.668891906738,231 N Lombard St,Portland,97217,$$,False,yelp_api
+AlCMU9VaM9gshrp1PXLURQ,Clean-O-Rama Laundromat,3.5,82,45.5355599,-122.70451,2573 NW Thurman St,Portland,97210,$$,False,yelp_api
+WYr-8MfJkay5Ep5cEZ8ppg,Vermont Hills Laundromat,3.8,40,45.4759346,-122.7237464,4520 SW Vermont St,Portland,97219,$$,False,yelp_api
+AKH5evX4J9kwG40C32MAqA,Powellhurst Laundromat,4.0,7,45.4978593202152,-122.569243647158,9131 SE Powell Blvd,Portland,97266,,False,yelp_api
+_sHvvxyWqfFGzQosePeOYw,Peacock Laundry,3.9,20,45.5866011232138,-122.737176418304,6840 N Lombard St,Portland,97203,$$,False,yelp_api
+UapL23CxoeSOx411Xiq0-Q,Brax Laundry,4.9,47,45.34213,-122.59453,927 Molalla Ave,Oregon City,97045,$$,False,yelp_api
+5XlZKmOmMPA1qh-gHmlqvA,EZ Wash Stark,4.2,6,45.518621,-122.528794,13056 SE Stark St,Portland,97233,,False,yelp_api
+Ds8kZ2GAMAYpfUdpC8oXyw,Lee's Laundrette,3.8,13,45.5768928527832,-122.688018798828,2052 N Lombard St,Portland,97217,$,False,yelp_api
+T1MxzYKUTo5TCPDZupDxHQ,Westwood Dry Cleaners,4.0,4,45.415939,-122.59026,6920 SE Thiessen Rd,Portland,97267,,False,yelp_api
+6H6L-5AUutEvIutZWN9WOw,Blue Sky Eco Laundry/Lavanderia,3.3,30,45.58806,-122.752307,8233 N Syracuse St,Portland,97203,$$,False,yelp_api
+VlV6IVFQPz0pEAx0KiLrMg,52nd and Flavel Coin Laundry,2.5,18,45.4683303833008,-122.609649658203,7510 SE 52nd Ave,Portland,97206,$$,False,yelp_api
+3ExPBj4pUlRSzmJv_JmJYw,Sunshine on Glisan Coin,5.0,1,45.52617924318394,-122.58198078721762,7914 NE Glisan St,Portland,97213,,False,yelp_api
+ApuyQZJMI1NSocZWk3mvXg,Kenton Laundromat,2.6,17,45.5818965286016,-122.686927244067,8119 N Denver Ave,Portland,97217,$,False,yelp_api
+zC597AABW8yiIe4sCR_7Hw,Unity Laundromat Canterbuy Square,4.5,10,45.4171,-122.79006,14305 Sw Pacific Hwy,Tigard,97224,,False,yelp_api
+GnJf9VEc5R5-R9Tynm5NDg,Progress Laundromat,3.8,35,45.458379,-122.783787,8608 SW Hall Blvd,Beaverton,97008,$,False,yelp_api
+WADccNwD8xOmgh-T7UKQSg,Janet's Laundry,2.8,19,45.4922454263259,-122.488254010677,17102 SE Powell Blvd,Portland,97236,$,False,yelp_api
+HPXeMudHWCiUhMF0EjArWg,Town Center Laundromat,3.5,22,45.43844,-122.57812,8301 SE Monterey Ave,Happy Valley,97086,$$,False,yelp_api
+Ta-gfrqUTUqp_7xhj6nd2Q,Unity Laundromat,3.9,12,45.435116092901794,-122.76712834228567,11945 Sw Pacific Hwy,Tigard,97223,,False,yelp_api
+kRb4GRJsjx_UgDhQ45iAFQ,Coin Meter Company,1.5,22,45.44818,-122.72833,10630 SW Barbur Blvd,Portland,97219,,False,yelp_api
+59QvdQqbcJka5UGTyHLscA,Milwaukie Coin Laundry,3.4,19,45.44712,-122.61984,10515 SE 42nd Ave,Milwaukie,97222,$,False,yelp_api
+ab5Vi26BmzceYyLdd7pG-w,Westwood Laundromat,0.0,0,45.415876,-122.590161,6940 SE Thiessen Rd,Portland,97267,,False,yelp_api
+lKFSiwr8-mUrYQhgvE8XmA,Tualatin Laundromat,3.0,27,45.3791972,-122.7649821,19415 SW Boones Ferry Rd,Tualatin,97062,$,False,yelp_api
+IQNPvBa6Kf9gO8puHPAFcg,Powell Villa Coin Laundromat,1.7,3,45.4961205,-122.5367584,3644 SE 122nd,Portland,97213,,False,yelp_api
+RFYsjIkZmsuznQFuEyuh3A,Newberg Coin Laundry,4.0,7,45.308292,-122.944707,1100 N Springbrook Rd,Newberg,97132,,False,yelp_api
+amDPV8U1PAJj2DgFOehZzg,Alpine Coin Laundry,2.3,4,45.5043106079102,-122.514221191406,14410 SE Division St,Portland,97236,$$,False,yelp_api
+m9VhfwTf_-Cqfb1jl9tu9A,Courtney Plaza Laundromat,1.7,10,45.4233832,-122.6337439,13811 SE McLoughlin Blvd,Oak Grove,97222,$,False,yelp_api
+gQQUA8cl5JN8bJmOUmZDeA,Brax Laundry - Molalla,3.0,5,45.15066,-122.60458,1515 W Main St,Molalla,97038,,False,yelp_api
+9va4jgkpSHVnm-O70aoeIg,Canterbury Coin-Op Laundry,3.5,2,45.4171450088577,-122.790096402168,14305 SW Pacific Hwy,Tigard,97224,$$,False,yelp_api
+QqumM1qIZHk_P2LxfFmTNQ,Brax Laundry - Estacada,2.0,1,45.297784,-122.337673,990 NW Wade St,Estacada,97023,,False,yelp_api
+HhSIpaf4unxiVvtoGOjJqQ,All Star Laundromat,4.0,22,45.584575,-122.3678958,321 NE Lechner St,Camas,98607,,False,yelp_api
+OySeNmv-XNSWDC6pz0Q14w,MetroMat Coin Laundry,4.5,24,45.533215894605306,-122.47979845483825,1501 NE 181st Ave,Portland,97230,$,False,yelp_api
+Ak_Vm6p7GBvkO6HQ1fqDEQ,MetroMat Coin Laundry,4.2,13,45.50575,-122.49507,16353 SE Division,Portland,97236,,False,yelp_api
+PS7uGM1v6Rb20TR7HcVVFA,Fresh Laundromat,5.0,2,45.672988,-122.521753,14612 NE Fourth Plain Blvd,Vancouver,98682,,False,yelp_api
+7xSN6A5s377_WA4rA_110A,Blue Sky Eco Laundry/Lavanderia,2.8,28,45.5048748850822,-122.412112802267,1975 NE Division St,Gresham,97030,$$$,False,yelp_api
+0ayKuOgtt3UDqVFcCAKJxQ,Refreshed Launderette,3.6,5,45.92706339999999,-122.75407127369648,1935 Belmont Lp,Woodland,98674,,False,yelp_api
+MJV0-ADCCoY2a6FujIFSsA,Hood Coin Laundry,3.0,10,45.5055499419644,-122.414951184343,1675 NE Division St,Gresham,97030,,False,yelp_api
+xSGJrjRgHraPwTUx7ybyfA,B & B Laundromat,3.3,4,45.5265349,-122.496355,16203 NE Glisan St,Portland,97230,$$,False,yelp_api
+0AfIvsKpBw7a2UC3MQEnAw,Halsey Coin Laundry,0.0,0,45.53611,-122.42988,22605 NE Halsey St,Fairview,97024,,False,yelp_api
+GV826ugOBR__UKWHjl4VZA,Sunshine Laundry,0.0,0,45.64426,-122.59858,3021 NE 72nd Dr,Vancouver,98661,,False,yelp_api

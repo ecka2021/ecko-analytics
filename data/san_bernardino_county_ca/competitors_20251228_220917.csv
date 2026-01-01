@@ -1,0 +1,51 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+7nzbZkaPlJsdFhGzKCQXIg,Mountain Coin Laundry,4.5,61,34.095372,-117.67053,141 N Mountain Ave,Upland,91786,,False,yelp_api
+Q0IMZfXDBzvgKYldsgiLoA,San Antonio Coin Laundry,4.4,113,34.09578,-117.66118,177 N San Antonio Ave,Upland,91786,$,False,yelp_api
+ieRZYB92Eux9b6gLI9EO-Q,9th St Coin Laundry,3.8,55,34.096229,-117.6475639,271 E 9th St,Upland,91786,$,False,yelp_api
+m27im5RoUaa7nuzsVqc7Jw,Coin Laundry,3.0,41,34.10549009698358,-117.67203731358823,1256 W Foothill Blvd,Upland,91786,$,False,yelp_api
+fZMcwXhETK02xUI0yRW7fA,Super Clean Laundry,4.7,326,34.076915,-117.668535,1008 N Mountain Ave,Ontario,91762,$,False,yelp_api
+MJ7eOf3qvWVk4KoJ3VlutQ,Suds and Bubbles Laundry Services,4.2,202,34.0194708,-117.7017356,4726 Riverside Dr,Chino,91710,$,False,yelp_api
+6ZQ5GYvzB0jVgmCn08Mdtg,Infinity Laundry,4.5,11,34.118321389540995,-117.77823654361607,1345 Foothill Blvd,La Verne,91750,,False,yelp_api
+G2zuYT86Tmb98kQSBtVaIA,McClean,4.5,126,34.106431,-117.746821,3270 N Garey,Pomona,91767,,False,yelp_api
+UCrkkM6wYbzRH0Ltu-d1Yg,Vineyard Coin Laundry/ Lavanderia,4.1,52,34.078679,-117.610286,1931 E 4th St,Ontario,91764,,False,yelp_api
+EHxE_FVNr-eYbZwwy_H13g,Miller's Claremont Laundry & Dry Cleaning,4.0,61,34.09621269262893,-117.7191036619889,232 N Indian Hill Blvd,Claremont,91711,$$,False,yelp_api
+dV0ZO54tj1AE-cbhHwo-tw,Neighborhood Laundry,4.3,14,34.0675403,-117.7190751,810 Indian Hill Blvd,Pomona,91767,,False,yelp_api
+8SDIPfZYG72gQhvFqiM0sQ,Aztec  Laundry,4.2,31,34.088633,-118.214661,3520 N Figueroa St,Los Angeles,90065,,False,yelp_api
+MYC8ySLMubSCx86E6oYS7g,Frantz Cleaners,3.7,68,34.0724601745605,-117.751983642578,1490 N Garey Ave,Pomona,91767,$,False,yelp_api
+sbqEuxgzH7CV_o3_sp8rLA,Valentine Laundry,4.7,282,33.7432714639094,-116.305457926784,42-065 Washington St,Palm Desert,92211,$$,False,yelp_api
+EsfQ3XJ7bUpToQ--0PZ5wA,Laundry Land,4.2,13,34.091766,-117.434639,8913 Sierra Ave,Fontana,92335,$,False,yelp_api
+5OEzQS7NZNV7rLwwrzF5Mw,Laundry Express Coin Wash,4.1,36,34.129396,-117.84867,947 E Rt 66,Glendora,91740,$$$,False,yelp_api
+gOhmJLEZXij1K7K7TbiTHw,Ontario Laundromat,3.8,23,34.03345,-117.65259,2238 S Euclid Ave,Ontario,91762,,False,yelp_api
+LFZuzrQLiwrtezmMhcP78Q,PB Coin Laundry,3.6,56,34.105898938219696,-117.59800376628596,9471 Foothill Blvd,Rancho Cucamonga,91730,$,False,yelp_api
+uWBc7jt2jjMbRe6OVqvDYg,JK Coin Laundry,3.3,16,34.06392788782161,-117.70991968475995,4380 Holt Blvd,Montclair,91763,$,False,yelp_api
+uuo8tV3OPAnYWry2Qye6sw,DT Coin Laundry,4.5,8,33.91293031972733,-118.08122254340424,12858 Pioneer Blvd,Norwalk,90650,,False,yelp_api
+hASAlMtK9BjkPFI6d2UzYQ,Sunrize Coin Laundry,2.9,45,34.121014,-117.618282,8655 Baseline Rd,Rancho Cucamonga,91730,$$,False,yelp_api
+geGgpcMFDb3Am4E_XkHUZQ,The Laundry Place,4.1,9,33.8958609,-118.2121006,1020 E Compton Blvd,Compton,90221,,False,yelp_api
+pQP-HiqA63lBlpqa7CV5IA,Mina's Laundromat,4.7,3,34.0849,-117.62934,1228 E 6th St,Ontario,91764,,False,yelp_api
+WOce8ZYjvSn8KRAupi8HXg,Claremont Laundromat,3.2,17,34.1072593,-117.7353148,1021 W Foothill Blvd,Claremont,91711,$,False,yelp_api
+PeDS5M341bvlNexQcpUyNQ,Super Wash n Dry,2.7,27,34.06198,-117.78687,690 Fairplex Dr,Pomona,91768,,False,yelp_api
+_TkyaqUhu6NDeJ6VJvesjA,Coin Laundry,3.9,14,34.0783091023572,-117.610232217531,1931 E 4th St,Ontario,91764,,False,yelp_api
+q8mv0xVmle8VUG7ujE_RDQ,Lucky Coin Laundry,3.6,19,34.0757891535759,-117.689684182405,9802 Central Ave,Montclair,91763,$,False,yelp_api
+s3Kk5fQKefH1Guf12r3sLQ,White Avenue Laundromat,4.2,5,34.07023410880551,-117.75955237448215,1273 N White Ave,Pomona,91768,,False,yelp_api
+Tr99zjLJ2xe78PiQcXZMlQ,San Jacinto Family Laundry,3.7,21,33.78407,-116.95223,505 E Main St,San Jacinto,92583,,False,yelp_api
+zsLnKnffE1bK9OMDlF0A3g,Yucaipa Coin Laundry,3.5,11,34.034182,-117.042938,34906 Yucaipa Blvd,Yucaipa,92399,,False,yelp_api
+cy1THBvi-3PdjcW206UXBw,Alta Loma Coin Wash,1.6,25,34.122338,-117.5956127,9612 Baseline Rd,Alta Loma,91701,$$,False,yelp_api
+YV0l9oMRvKxg6bj1JSjn4g,Shesgold Cleaning Services,5.0,1,33.98099,-117.32349,,Riverside,92507,,False,yelp_api
+RPUbv2NTvPvm-wfeu4RyVg,Urban Laundry Butler,3.1,8,34.055816,-118.0172959,2802 Durfee Ave,El Monte,91732,,False,yelp_api
+Aiky4NG9r5MWAr4_OX-trg,CLN Coin Laundry,2.9,19,34.061656,-117.796521,2407 Valley Blvd,Pomona,91768,$,False,yelp_api
+BMYbiQjfr8Cyrvfa2uhx4A,Sal’s Suds and Snack,5.0,1,34.107429,-117.9029488,469 E Arrow Hwy,Azusa,91702,,False,yelp_api
+llq0BakdhFS0MEmaiWJdKw,Laundry 365,3.7,3,34.075224,-117.718325,1666 Indian Hill Blvd,Pomona,91767,,False,yelp_api
+9BVYkRG9EUMyLfYUYFVq-w,Ontario Coin LaundroMat,2.5,2,34.034583893821065,-117.59210477836808,,Ontario,91761,,False,yelp_api
+kaQBbjLkHI8RU2-xOZzgxQ,Lavanderia Coin Laundry,3.5,2,34.06264652282596,-117.7559841490459,457 W Holt Ave,Pomona,91768,,False,yelp_api
+WfbcQNsSnV43o0TwDrNanA,Don Gordo's Launderland,2.9,19,33.716906,-116.212512,45-680 Salton St,Indio,92201,,False,yelp_api
+5KEcsyt1BDEEiLTo2f5f8Q,Brown Coin Wash,3.0,2,34.06263369544189,-117.75594095247698,457 W Holt Ave,Pomona,91768,,False,yelp_api
+35sBvTDp43holpFoDZOleA,Lucy's Laundrymart,2.2,12,34.0624183,-117.7542364,365 W Holt Ave,Pomona,91768,$,False,yelp_api
+L4rHp8UmUdROYV1Tdl41vg,Launderland Coin-Op Laundry,2.3,9,34.0436227619648,-117.749754264951,1529 S Garey Ave,Pomona,91766,$,False,yelp_api
+L1QZbqKKAW0QP15EKZ6SRw,Laundromat,3.0,6,34.0629965,-117.7304026,1017 E Holt Ave,Pomona,91767,,False,yelp_api
+acYFpVSZBF521tozQ_CMHg,Lavanderia Pomona Laundry,1.0,2,34.06181,-117.764229,838 W Holt Ave,Pomona,91768,,False,yelp_api
+2TvQWZJ8jCWII6tEVSJ72A,Ontario Coin Laundry,1.9,7,34.07851,-117.634124,1001 E 4th St,Ontario,91764,,False,yelp_api
+Hl6i8_IFBYsKnpBSszbKtQ,The Grove Laundromat,2.4,5,34.104310122897,-117.748894616961,3147 Garey Ave,La Verne,91750,$$,False,yelp_api
+F4_Sh8SPbDGTesZKqAgIIQ,Coin Laundry,1.0,1,34.06167,-117.7642,838 W Holt Ave,Pomona,91768,$,False,yelp_api
+1Lo0z16p8U2VEzSxdmuzBg,Coin Op Laundry,2.3,10,34.033473,-117.652527,2238 S Euclid Ave,Ontario,91762,$$,False,yelp_api
+eEiAuaQH95uqlhSrE6yVfQ,Pronto Wash,2.0,2,34.0626223327898,-117.73842352599,632 E Holt Ave,Pomona,91767,,False,yelp_api
+rUNaOAdwyEkyY8OLHEhJow,Super Spin Laundry,1.0,1,33.88147,-118.29039,832 W Gardena Blvd,Gardena,90247,,False,yelp_api

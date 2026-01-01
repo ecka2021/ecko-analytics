@@ -1,0 +1,94 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+EHxE_FVNr-eYbZwwy_H13g,Miller's Claremont Laundry & Dry Cleaning,4.0,61,34.09621269262893,-117.7191036619889,232 N Indian Hill Blvd,Claremont,91711,$$,False,yelp_api
+fZMcwXhETK02xUI0yRW7fA,Super Clean Laundry,4.7,327,34.076915,-117.668535,1008 N Mountain Ave,Ontario,91762,$,False,yelp_api
+G2zuYT86Tmb98kQSBtVaIA,McClean,4.5,126,34.106431,-117.746821,3270 N Garey,Pomona,91767,,False,yelp_api
+7nzbZkaPlJsdFhGzKCQXIg,Mountain Coin Laundry,4.5,61,34.095372,-117.67053,141 N Mountain Ave,Upland,91786,,False,yelp_api
+WOce8ZYjvSn8KRAupi8HXg,Claremont Laundromat,3.2,17,34.1072593,-117.7353148,1021 W Foothill Blvd,Claremont,91711,$,False,yelp_api
+dV0ZO54tj1AE-cbhHwo-tw,Neighborhood Laundry,4.3,14,34.0675403,-117.7190751,810 Indian Hill Blvd,Pomona,91767,,False,yelp_api
+6ZQ5GYvzB0jVgmCn08Mdtg,Infinity Laundry,4.5,12,34.118321389540995,-117.77823654361607,1345 Foothill Blvd,La Verne,91750,,False,yelp_api
+MJ7eOf3qvWVk4KoJ3VlutQ,Suds and Bubbles Laundry Services,4.2,203,34.0194708,-117.7017356,4726 Riverside Dr,Chino,91710,$,False,yelp_api
+MYC8ySLMubSCx86E6oYS7g,Frantz Cleaners,3.7,68,34.0724601745605,-117.751983642578,1490 N Garey Ave,Pomona,91767,$,False,yelp_api
+5OEzQS7NZNV7rLwwrzF5Mw,Laundry Express Coin Wash,4.1,36,34.129396,-117.84867,947 E Rt 66,Glendora,91740,$$$,False,yelp_api
+gOhmJLEZXij1K7K7TbiTHw,Ontario Laundromat,3.8,23,34.03345,-117.65259,2238 S Euclid Ave,Ontario,91762,,False,yelp_api
+9WAglv0nKAeeFwdj2zKCQg,Badillo Launderland,4.0,43,34.08642,-117.87395,829 E Badillo St,Covina,91723,,False,yelp_api
+EsfQ3XJ7bUpToQ--0PZ5wA,Laundry Land,4.2,13,34.091766,-117.434639,8913 Sierra Ave,Fontana,92335,$,False,yelp_api
+8SDIPfZYG72gQhvFqiM0sQ,Aztec  Laundry,4.2,31,34.088633,-118.214661,3520 N Figueroa St,Los Angeles,90065,,False,yelp_api
+LFZuzrQLiwrtezmMhcP78Q,PB Coin Laundry,3.6,56,34.105898938219696,-117.59800376628596,9471 Foothill Blvd,Rancho Cucamonga,91730,$,False,yelp_api
+uuo8tV3OPAnYWry2Qye6sw,DT Coin Laundry,4.5,8,33.91293031972733,-118.08122254340424,12858 Pioneer Blvd,Norwalk,90650,,False,yelp_api
+m27im5RoUaa7nuzsVqc7Jw,Coin Laundry,3.0,41,34.10549009698358,-117.67203731358823,1256 W Foothill Blvd,Upland,91786,$,False,yelp_api
+uWBc7jt2jjMbRe6OVqvDYg,JK Coin Laundry,3.3,16,34.06392788782161,-117.70991968475995,4380 Holt Blvd,Montclair,91763,$,False,yelp_api
+s3Kk5fQKefH1Guf12r3sLQ,White Avenue Laundromat,4.2,5,34.07023410880551,-117.75955237448215,1273 N White Ave,Pomona,91768,,False,yelp_api
+llq0BakdhFS0MEmaiWJdKw,Laundry 365,3.7,3,34.075224,-117.718325,1666 Indian Hill Blvd,Pomona,91767,,False,yelp_api
+geGgpcMFDb3Am4E_XkHUZQ,The Laundry Place,4.1,9,33.8958609,-118.2121006,1020 E Compton Blvd,Compton,90221,,False,yelp_api
+q8mv0xVmle8VUG7ujE_RDQ,Lucky Coin Laundry,3.6,19,34.0757891535759,-117.689684182405,9802 Central Ave,Montclair,91763,$,False,yelp_api
+PeDS5M341bvlNexQcpUyNQ,Super Wash n Dry,2.7,27,34.06198,-117.78687,690 Fairplex Dr,Pomona,91768,,False,yelp_api
+RPUbv2NTvPvm-wfeu4RyVg,Urban Laundry Butler,3.1,8,34.055816,-118.0172959,2802 Durfee Ave,El Monte,91732,,False,yelp_api
+BMYbiQjfr8Cyrvfa2uhx4A,Sal’s Suds and Snack,5.0,1,34.107429,-117.9029488,469 E Arrow Hwy,Azusa,91702,,False,yelp_api
+zsLnKnffE1bK9OMDlF0A3g,Yucaipa Coin Laundry,3.5,11,34.034182,-117.042938,34906 Yucaipa Blvd,Yucaipa,92399,,False,yelp_api
+Aiky4NG9r5MWAr4_OX-trg,CLN Coin Laundry,2.9,19,34.061656,-117.796521,2407 Valley Blvd,Pomona,91768,$,False,yelp_api
+kaQBbjLkHI8RU2-xOZzgxQ,Lavanderia Coin Laundry,3.5,2,34.06264652282596,-117.7559841490459,457 W Holt Ave,Pomona,91768,,False,yelp_api
+acYFpVSZBF521tozQ_CMHg,Lavanderia Pomona Laundry,1.0,2,34.06181,-117.764229,838 W Holt Ave,Pomona,91768,,False,yelp_api
+NTg4JI8c86rcGK2Rzn3lnw,Hacienda's Dirty Laundry,4.0,1,33.9963324,-117.9683137,2043 S Hacienda Blvd,Hacienda Heights,91745,,False,yelp_api
+YV0l9oMRvKxg6bj1JSjn4g,Shesgold Cleaning Services,5.0,1,33.98099,-117.32349,,Riverside,92507,,False,yelp_api
+L1QZbqKKAW0QP15EKZ6SRw,Laundromat,3.0,6,34.0629965,-117.7304026,1017 E Holt Ave,Pomona,91767,,False,yelp_api
+-RJS35AwRSIlpuofNG8HyQ,Coin-Op Laundromat,2.3,4,34.0659972,-117.7192341,735 Indian Hill Blvd,Pomona,91767,$,False,yelp_api
+aVM52ltwUlVJCEBtgQ__sg,Sunny Laundry,0.0,0,34.065959,-117.720043,735 Indian Hill Blvd,Pomona,91767,,False,yelp_api
+rUNaOAdwyEkyY8OLHEhJow,Super Spin Laundry,1.0,1,33.88147,-118.29039,832 W Gardena Blvd,Gardena,90247,,False,yelp_api
+yAxUjAzwkfQ7mBGZ2fSAMg,La Clean Laundry,0.0,0,34.0815945,-118.1778037,3120 N Eastern Ave,Los Angeles,90032,,False,yelp_api
+zAAtJ0xQhOTKWZceGVr-Nw,Noho Laundry,0.0,0,34.20809511838071,-118.38739786441369,7568 Lankershim Blvd,San Fernando Valley,91605,,False,yelp_api
+35sBvTDp43holpFoDZOleA,Lucy's Laundrymart,2.2,12,34.0624183,-117.7542364,365 W Holt Ave,Pomona,91768,$,False,yelp_api
+eEiAuaQH95uqlhSrE6yVfQ,Pronto Wash,2.0,2,34.0626223327898,-117.73842352599,632 E Holt Ave,Pomona,91767,,False,yelp_api
+Hl6i8_IFBYsKnpBSszbKtQ,The Grove Laundromat,2.4,5,34.104310122897,-117.748894616961,3147 Garey Ave,La Verne,91750,$$,False,yelp_api
+5KEcsyt1BDEEiLTo2f5f8Q,Brown Coin Wash,3.0,2,34.06263369544189,-117.75594095247698,457 W Holt Ave,Pomona,91768,,False,yelp_api
+F4_Sh8SPbDGTesZKqAgIIQ,Coin Laundry,1.0,1,34.06167,-117.7642,838 W Holt Ave,Pomona,91768,$,False,yelp_api
+OxbgI3UF0uKwCrkUEBsMCw,Coin Wash Laundry,1.0,4,34.070312,-117.7595052,1273 N White Ave,Pomona,91768,$$$,False,yelp_api
+q1aYdi0Sp-sNnJFVlc47hQ,Laundry 360 on Main,4.4,79,33.825037,-118.275781,22222 S Main St,Carson,90745,$$,False,yelp_api
+B4qxKbAUjJTVU8LUmaGsdQ,Vivi's Laundry,4.5,56,33.818110970064026,-118.286348,22839 S Figueroa St,Carson,90745,$,False,yelp_api
+fM35JPA3_0QKUl_jCt-eMQ,Carson EZ Wash Laundromat,4.5,23,33.83135,-118.27475,186 East Carson St,Carson,90745,,False,yelp_api
+o7EHrM5I9bSLnuW913FZmQ,The Laundry Room - Harbor City,4.3,15,33.79742617364672,-118.2984759,1234 Lomita Blvd,Harbor City,90710,,False,yelp_api
+7QkPC1nrgqfeQnNO2uDJ8Q,Laundry 360,4.1,67,33.83249337584825,-118.268658176783,441 E Carson St,Carson,90745,$$,False,yelp_api
+l1CIj_r3BBXBRZlSSt0fyg,Harbor Laundry,3.9,107,33.789914,-118.311522,1863 Pacific Coast Hwy,Lomita,90717,$$,False,yelp_api
+ufBVD57tAQQI2Ep--smJyw,Clean Laundry,4.2,13,33.833395,-118.314587,1517 Cabrillo Ave,Torrance,90501,,False,yelp_api
+PsUcutaSVCSa3qUHjF0DHw,The Laundry Lass ,5.0,5,33.798152,-118.3090112,1739 Lomita Blvd,Lomita,90717,,False,yelp_api
+JYG1UO8D_b99Lyf6KhFTCA,Coin Laundry,3.2,24,33.832417824236494,-118.2988949999998,21600 Normadie Ave,Torrance,90502,$,False,yelp_api
+Ag-63z5IsljaayQ5Seeo8A,Lomita Coin Laundry,4.0,21,33.7981061,-118.3106736,1838 Lomita Blvd,Lomita,90717,$,False,yelp_api
+Q9JJ6wapHwrHJ8CXuryjgQ,Carson Coin Laundry,3.2,17,33.831724897027,-118.278941363096,135 W Carson St,Carson,90745,$,False,yelp_api
+qvufevDIFtAsPLu7ZlQlrQ,Heather & Daughter Laundry,4.6,130,33.83738,-118.38113,608 Torrance Blvd,Redondo Beach,90277,$,False,yelp_api
+ecq6ivmMpEwpbtvxzlnP6A,Wash & Dry Laundromat,3.3,24,33.83101,-118.30777,1644 W Carson St,Torrance,90501,$,False,yelp_api
+eSRhZAhPw4qW7F3ZffecCQ,Super Laundry,4.0,8,33.7790756225586,-118.27375793457,744 N Wilmington Blvd,Wilmington,90744,$$,False,yelp_api
+fsZqeEm55oGfHuztyYeQ3g,Laundry Guys,4.5,434,33.79004953447336,-118.16234628597196,2499 E Pacific Coast Hwy,Signal Hill,90755,$$$,False,yelp_api
+yBzn3urJXhP7byUYuk0SGw,Grace Coin Laundromat,3.4,22,33.82827205158729,-118.2633827992217,21950 Avalon Blvd,Carson,90745,,False,yelp_api
+rJbhLIEQb67e_9kVXdWO8Q,Magaly's Coin Laundry,4.3,4,33.831104,-118.30526,1528 W Carson St,Torrance,90501,$,False,yelp_api
+bMZKDnZziNfFcPanzK9h7g,Laundry House,3.8,26,33.7774155026379,-118.2626598,601 N Avalon Blvd,Los Angeles,90744,$$$,False,yelp_api
+aG5oHwlUTRTmkf0iSvTdCQ,The Laundromat of San Pedro,4.1,71,33.7353183,-118.2876562,940 S Pacific Ave,San Pedro,90731,$,False,yelp_api
+x8w2IiAe_4YqDdFwIV0b-w,Coin OP Laundry,2.2,10,33.8121611384789,-118.264184184372,23521 S Avalon Blvd,Carson,90745,,False,yelp_api
+Px1XESyqdIJ-FiBrUvSs1Q,WaveMAX Laundry Long Beach,4.5,48,33.775680619666915,-118.1846958,601 E 7th St,Long Beach,90813,,False,yelp_api
+UIGdUMEcdrevluMzV-zL9g,Super Wash N Dry,4.6,197,33.943146795574,-118.130365457672,10818 Downey Ave,Downey,90241,$,False,yelp_api
+WCXEaDfomU8pztPmrhzlpQ,Thrifty Wash - Redondo Beach,4.3,91,33.854452,-118.379239,1254 Beryl St,Redondo Beach,90277,$$,False,yelp_api
+6y1_d9wV5pkUmheBQ52dTw,Drop n Go Laundromat,4.3,96,33.84131,-118.17596,4554 Orange Ave,Long Beach,90807,,False,yelp_api
+SGLcBAf1RGJn1afr_VEksg,Laundry 360 On Market,4.5,39,33.854406893887386,-118.18417598280334,621 E Market St,Long Beach,90805,$$,False,yelp_api
+3NKSCsKg4oRsivVLygo1Ng,Fluff & Fold Coin Laundry,3.5,114,33.838572,-118.353472,21172 Hawthorne Blvd,Torrance,90503,$,False,yelp_api
+CNEj_fglP15penifq8RZ5A,Speed Queen Laundry,4.2,73,33.77164246026544,-118.17251226068277,1526 E 4th St,Long Beach,90802,$$,False,yelp_api
+RtdA76AeVKDU37FpA1pfRw,Modern Laundry Wash,3.9,43,33.788524,-118.188846,1716 Long Beach Blvd,Long Beach,90813,$$,False,yelp_api
+kmNarxu0grQtdH_OtOhHDA,The Missing Sock Coin Laundry,4.5,43,33.8732341,-118.3638489,2603 Artesia Blvd,Redondo Beach,90278,,False,yelp_api
+GDlNkAdLIQFF97yVPhfYVw,Magic Laundry,3.8,75,33.90081,-118.34419,14405 Prairie Ave,Lawndale,90260,$,False,yelp_api
+qGIL-mxgLRzogU1pLzh2Kw,El Porto Laundry,4.7,31,33.90275,-118.418831,3921 Highland Ave,Manhattan Beach,90266,$$,False,yelp_api
+5T9ubrT-YHmjFmEy6eAd0A,G&G Laundromat ,0.0,0,33.8138,-118.27604,23303 Main St,Carson,90745,,False,yelp_api
+hLFmF1sn0k46CT5cbsUcJg,Coinless Laundry,5.0,2,33.779046,-118.274527,733 N Wilmington Blvd,Wimington,90744,,False,yelp_api
+Eud0qSojdQnd_NU_tJDSbQ,The Lawndale Laundromat,4.0,24,33.89927,-118.352908,14539 Hawthorne Blvd,Lawndale,90260,$,False,yelp_api
+6QWfoYzEe4DHcrOvWrV7MA,"Coco Laundry - Laundromat, Wash & Fold",4.8,163,33.77504,-118.14504,4022 E 7th St,Long Beach,90804,$$,False,yelp_api
+UQyt3ybEUat8QnDqZ7Ny3g,Torrance Coin Laundry,4.1,12,33.881139,-118.326051,16426 Crenshaw Blvd,Torrance,90504,,False,yelp_api
+qM2NlnwGW-Q7gHIpGxBYUQ,Kinship Wash & Fold,4.7,15,33.846055,-118.159532,2706 Del Amo Blvd,Lakewood,90712,,False,yelp_api
+_s8HszFrNYC9DQtOYvg5AQ,Suds & Duds Laundromat,3.9,84,33.8853082552247,-118.379016272997,975 N Aviation Blvd,Manhattan Beach,90266,$,False,yelp_api
+QGz0JfBgAHMMOjfJEy6sPg,HB Laundry,3.9,89,33.71495,-118.04081,5042 Warner Ave,Huntington Beach,92649,$,False,yelp_api
+bwBy9xOXzJpkVD6QfrFX1A,Coin Laundry,5.0,2,33.789719,-118.263593,1327 N Avalon Blvd,Los Angeles,90744,$,False,yelp_api
+L1jkmiGOBPgYBQUhFLJELg,Love Laundry,3.7,87,33.875194,-118.203331,6663 Long Beach Blvd,Long Beach,90805,$,False,yelp_api
+8eX_CZDWwWT6OkpMy_ENjA,NB Super Laundry,4.5,8,33.9314346,-118.29995573899616,11252 S Normandie Ave,Los Angeles,90044,,False,yelp_api
+5CpFODj_BcpTmWZ0opBBGA,Happy Coin Laundry,4.6,9,33.7833301,-118.1922551,1340 Pine Ave,Long Beach,90813,$,False,yelp_api
+qFPWeOcMlqnyZ5U3kWF1uw,Mi Casa Laundromat,4.8,10,33.88319,-118.20576,1415 S Long Beach Blvd,Compton,90221,,False,yelp_api
+umWHwcNcp38AMmoZaVOo0Q,Coin-Op Laundry,4.1,39,33.87442,-118.14673,8702 Artesia Blvd,Bellflower,90706,$,False,yelp_api
+yHZxbmHsNVe36kkE__TChA,4th St  Laundry,4.2,43,33.77186,-118.15275,3331 E 4th St,Long Beach,90814,$,False,yelp_api
+TIx32u1J3rFjIcPY1boSzA,BubblyMat Laundry,4.1,18,33.77880904402385,-118.176858,1176 E 10th St,Long Beach,90813,$$,False,yelp_api
+d1ZkM4dJa1Dq-4TC8X0Njg,Top Laundromat,3.8,51,34.036298,-118.219171,2189 Whittier Blvd,Los Angeles,90023,$$$,False,yelp_api
+FgWG3cwYTQUVl3ZXq69i1w,Super Good Coin Laundry,3.6,25,33.789407,-118.194132,206 W Pacific Coast Hwy,Long Beach,90806,,False,yelp_api
+vAe-NlDEMdQHjE8YuWOgjA,Gisselle Laundromat,4.0,1,33.78635518407236,-118.27442033671866,1170 Wilmington Blvd,Los Angeles,90744,,False,yelp_api

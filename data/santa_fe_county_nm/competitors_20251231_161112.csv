@@ -1,0 +1,34 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+FRv5gHfJlDKJeoikGQ6Dug,Wash Tub Laundromat,4.3,44,35.65283,-105.99494,3140 Cerrillos Rd,Santa Fe,87507,$$,False,yelp_api
+VQn0auAKnw-ECdmKhQcrYg,Solana Laundromat,4.2,43,35.688844,-105.959493341888,949 W Alameda St,Santa Fe,87501,$,False,yelp_api
+lbUCdp1qUQJUL5k603caig,Harold's Laundry,4.2,26,35.10038,-106.61268,1500 Girard Blvd NE,Albuquerque,87106,$$,False,yelp_api
+U_FoYp88AhHMgGXKvsuziA,Corrales Laundromat,4.5,20,35.20512053021064,-106.64852410298636,10701 Coors Blvd NW,Albuquerque,87114,$$$,False,yelp_api
+XCf-HMeVWTof53Hbh_rc9A,Wash Tub Laundromat,4.4,10,35.32065078794827,-106.553644794876,501 Highway 550,Bernalillo,87004,,False,yelp_api
+lHwZxKjYRqQuq5xTK3QLqw,Wonderwash Laundromat,4.4,13,35.318816,-106.548759,255 US 550 Hwy,Bernalillo,87004,$$$,False,yelp_api
+QTjMcBpIQaYdSEh31WEV0A,Ti-Dee Laundromat,4.1,19,35.0589294433594,-106.604545593262,1605 Carlisle Blvd SE,Albuquerque,87106,$$,False,yelp_api
+zieMKPlguEVq7100dwH1Aw,Rainbow Laundromat,4.4,16,35.1080249,-106.5242218,2308 Morris St NE,Albuquerque,87112,$,False,yelp_api
+dveqkm7JWgLRoqRd0DIRpw,Peralta Laundromat,4.6,9,36.3853288185341,-105.586611464282,1018 Paseo Del Pueblo Sur,Taos,87571,,False,yelp_api
+UFDIgILox0YdN8q2Wp0NBA,EZ Wash Laundromat,3.8,17,35.0790977478027,-106.600700378418,3900 Central Ave,Albuquerque,87108,$,False,yelp_api
+p6SMLjPFi2UF7euHdI5ntA,Wash Tub,4.0,6,35.0680351,-106.4985877,13160 Central SE,Albuquerque,87123,,False,yelp_api
+FtTUurt5e54b9UZuZxdAxg,Del Rio Laundry,5.0,4,34.65989,-106.7635,325 E Reinken Ave,Belen,87002,,False,yelp_api
+Y_31Tcodcz5yxnvmPy7NSA,Sudz Laundromat,3.8,5,35.17315,-106.63529,7901 4th St NW,Albuquerque,87114,,False,yelp_api
+vBbwAwp2aUKckZ6T1x_qyg,Wonder Wash Laundromat,3.9,12,35.31889080567621,-106.54871504094424,255 US-550,Bernalillo,87004,$$,False,yelp_api
+ruo-NuLTOxm3LuP0qws9Jw,Spin & Sparkle Laundromat,3.6,21,36.4027738705851,-105.575273283533,106 Siler Rd,Taos,87571,$,False,yelp_api
+r-AWF0CfaadeSBHjOtM7tQ,North Valley Laundry,5.0,1,35.13411543919383,-106.64180487078438,5100 4th St NW,Albuquerque,87107,,False,yelp_api
+24Fa3Tj2z128VBd_x5ZsnA,Ohkay Laundromat,2.0,2,36.035808,-106.060713,360 Hwy 64,San Juan Pueblo,87566,,False,yelp_api
+05Go5keR8uMvdz4uyaxZbQ,Mills Plaza Laundromat,4.0,4,35.5999148637056,-105.232973769307,250 Mills Ave,Las Vegas,87701,,False,yelp_api
+q2PlOmzoB6ULOlT1PMCKhA,Spin Cycle Coin Laundry,2.8,32,35.1304561928236,-106.570466781599,6900 Montgomery Blvd NE,Albuquerque,87109,$,False,yelp_api
+EUNno78N9-9MFnoAf4pcKQ,Wash Tub Laundromat,3.4,5,35.121696472168,-106.703964233398,5300 Sequoia Rd NW,Albuquerque,87120,,False,yelp_api
+M4-XZ8bCRi9hJzA4zedWbA,University Laundromat,2.9,14,35.080623626709,-106.616165161133,2626 Central Ave SE,Albuquerque,87106,$,False,yelp_api
+Z6wmdweE3sUqqwpE6fXfpA,Earl's Guarantee Laundromat,3.3,4,35.682867,-105.960151,1103 Agua Fria St,Santa Fe,87501,,False,yelp_api
+W0ncEwqfixjS7lLiLWDSFw,Spincycle Coin Laundry,2.7,20,35.106746673584,-106.515060424805,2130 Juan Tabo Blvd NE,Albuquerque,87112,$,False,yelp_api
+cavdegcD4__fV1SFNpKpOg,EZ Wash Laundromat,2.7,7,35.13114,-106.6422,4720 4th St NW,Albuquerque,87107,,False,yelp_api
+X8O7zR3tKQ79fBgo7ycZdw,Aspen Gold Plaza,1.5,2,36.3937445,-105.28667683,3379 Mountain View Blvd,Angel Fire,87710,,False,yelp_api
+g9SR1iWhyYujhcge3ZmcGQ,Jay's Laundromat,2.0,1,35.074604,-106.5772934,300 San Pedro SE,Albuquerque,87108,$$,False,yelp_api
+K4B_OLF7ud2PDuqKzh6Sfw,Trujillo's Laundry Mat,1.0,3,35.5983453,-105.2132377,802 Grand Ave,Las Vegas,87701,,False,yelp_api
+whZbResNw-kG9jT9pguGwg,Leo's Laundromat,0.0,0,35.12292801850617,-106.65379192576012,1113 Candelaria Rd NW,Albuquerque,87107,,False,yelp_api
+GtdeeJIFeF38rV8JBq3Nrw,Wash Brite,0.0,0,35.06521849048253,-106.57810586706891,901 San Pedro Dr SE,Albuquerque,87108,,False,yelp_api
+OUslJwhPSG-cMGE5wEd2uw,Happy Suds Laundromat,0.0,0,35.06875,-106.50993,125 Western Skies Dr SE,Albuquerque,87123,$,False,yelp_api
+_96EuDEpLOKjB5fIJIyL7g,Mission Square Laundromat,0.0,0,35.0949707,-106.5158691,1331 Juan Tabo Blvd NE,Albuquerque,87112,,False,yelp_api
+BdoFk5AwUauPKf_IkL0CVA,Carlisle Laundromat,0.0,0,35.1288385009588,-106.60371728743084,4208 Carlisle Blvd NE,Albuquerque,87107,,False,yelp_api
+yrXqDS0zWql-V5o9zF6Ekw,Rikis Laundromat & Dry Cleaners,0.0,0,35.0748481750488,-106.697914123535,644 Old Coors Dr SW,Albuquerque,87121,,False,yelp_api

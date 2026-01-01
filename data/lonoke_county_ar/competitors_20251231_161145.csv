@@ -1,0 +1,55 @@
+business_id,business_name,rating,review_count,latitude,longitude,address,city,zip_code,price,is_closed,data_source
+eXUcjzU29exQ-cK-lswMUA,Lightning Laundry,5.0,5,34.75699,-92.40626,400 N Bowman Rd,Little Rock,72211,,False,yelp_api
+Q2j19j_zkxI4X2nMJRB4iw,Aim High Coin Laundry,5.0,1,34.9648367,-92.008405,210 AR-89,Cabot,72023,,False,yelp_api
+AEGw7zl0JeepozED6ydklw,Loose Change Coin Laundry,4.0,4,34.74115,-92.32523,4600 W 12th St,Little Rock,72204,,False,yelp_api
+4TlL8cfIta5kLPtJIguIkA,Washtime Coin Laundry,4.0,3,35.8328313,-90.7214028,1010 Wall St,Jonesboro,72401,$,False,yelp_api
+KmeqfujVQjSVRmOqui6Q9g,Clean Wash Coin Laundry,3.6,13,34.8524742126465,-92.4060363769531,2001 Club Manor Dr,Maumelle,72113,$$,False,yelp_api
+oLenLv6VtWn6nv5EcsniWA,Brown Coin Laundry,5.0,2,35.006066735027,-92.8012144399506,307 N Fourche Ave,Perryville,72126,,False,yelp_api
+vw7I4q8ZZILEqE6vqC5Qlg,Sparkle Clean Coin Laundry & Carwash,4.0,4,34.76113,-92.21016,4724 E Broadway St,North Little Rock,72117,,False,yelp_api
+66dqMJMUKYyqibAdPSnpmg,Wash 'n Go,4.5,6,34.4952835810812,-93.0778787657619,720 Albert Pike Rd,Hot Springs,71913,,False,yelp_api
+AZKg2fXXmuM-9m4op8TDpQ,Aqua Wash Coin Laundry,4.0,5,34.6096992,-92.49273,1604 N Reynolds Rd,Bryant,72022,,False,yelp_api
+2ASnJIHfr_j0xSoraZXBKg,The Wash Tub Coin Laundry,5.0,1,35.834723,-90.675383,2404 E Matthews Ave,Jonesboro,72401,,False,yelp_api
+2wZjqFNpG7Hdt9KS8k2LnA,Fun Wash Laundry Center,4.0,1,34.66849,-92.31825,3612 Baseline Rd,Little Rock,72209,,False,yelp_api
+JdJuJGQkCIAk3YrB2I8hQw,Fun Wash Laundry Center,2.9,11,34.7518328,-92.3198666,4206 W Markham St,Little Rock,72205,$$,False,yelp_api
+VsrVRpDCtbB5SVSMeqlZRA,Wash-N-Go Coin Laundry,3.1,17,34.479606,-93.060783,505 Higdon Ferry Rd,Hot Springs National Park,71913,,False,yelp_api
+Qfi3k9EhVU-4k3_W3qeWaw,Stagecoach Wash,4.0,2,34.670699,-92.4191849,8912 Stagecoach Rd,Little Rock,72210,,False,yelp_api
+8vzor3ayh0xEM2P5EnkRTw,Loose Change Coin Laundry,5.0,1,34.794098328432824,-92.27128951347468,4316 Camp Robinson Rd,North Little Rock,72118,,False,yelp_api
+YdgiIHoYw1O_SC2ePaGhgQ,24/7 Coin Laundry - Russellville,3.7,3,35.27113,-93.1344262,806 S Arkansas Ave,Russellville,72801,,False,yelp_api
+BjPdkYfH8Rodunw5ZRg-Vw,So Much So Clean Coin Laundry,5.0,1,34.86652,-92.11953,905 W Main St,Jacksonville,72076,,False,yelp_api
+WZLVd4i0HZN-AMK3vf40qA,Aim High Coin Laundry 2,0.0,0,34.9764519876996,-92.0154201,310 N 2nd St,Cabot,72023,,False,yelp_api
+Yo3gY3P83XVaj8eDIx2plQ,The Washboard Laundromat in Cabot,0.0,0,34.973767453396235,-92.01627405625372,100 N 1st St,Cabot,72023,,False,yelp_api
+cLzY5_fCz331jP5TuR-0Lw,Fun Wash Laundry Center,2.0,11,34.76806,-92.34972,6701 Cantrell Rd,Little Rock,72207,$$,False,yelp_api
+3iyzifoxZYc74Q4IIuQskg,Conway Coin Laundry,1.7,3,35.09265,-92.43788,1065 Clayton St,Conway,72032,$$$,False,yelp_api
+wJEhhlC3Uo9Z19e7RCBDHA,Fun Wash Laundry Center,1.8,6,34.79906,-92.255,4804 John F Kennedy Blvd,North Little Rock,72116,$$,False,yelp_api
+D6NZxWE8kWYh7y6mABQK1w,Wash Land Coin Laundry,4.0,1,35.010457187891,-90.7803719490767,999 E Broadway St,Forrest City,72335,,False,yelp_api
+z08nZcipG4a_Twro_a24Tw,Bryant Laundromat,2.7,3,34.6147117614746,-92.4975357055664,110 Dell Dr,Bryant,72022,,False,yelp_api
+1X4IXv9q8vG2tOcz-Xlhew,The Warsh,2.2,5,34.74661,-92.289119,500 Woodlane St,Little Rock,72201,,False,yelp_api
+8_zth5prVeQNIP5JgIjh3g,The Warsh,2.7,3,34.754444,-92.40364,11500 W Markham Rd,Little Rock,72211,,False,yelp_api
+cZiHWsNN3rib57YVeM8XHQ,Fun Wash Laundry Center,1.0,2,34.5574759,-92.5757877,1032 Edison Ave,Benton,72015,,False,yelp_api
+aAbKmC5KfDWoxEoEilki8w,24/7 Laundry,2.0,1,35.76918,-91.628889,2190 Harrison St,Batesville,72501,,False,yelp_api
+ud924u14QFzjm-ZvI_0xYQ,Purnell's Mini-Storage & Coin Laundry,3.0,1,34.20135969655691,-92.03675940425876,3202 W 28th Ave,Pine Bluff,71603,$,False,yelp_api
+c9WFoc2MYKUlrEYvRNPiyQ,Pine Bluff Coin Laundry,1.8,4,34.21838,-91.98923,1402 E 11th Ave,Pine Bluff,71601,,False,yelp_api
+bIT637dr7tj2y1t_FCMpKg,Diamond Lakes Laundry,0.0,0,34.31752,-93.16836,161 Millwood Ln,Bismarck,71929,,False,yelp_api
+jj-ZFXlr9MJ422mY3YGWvA,Peachy Clean Laundromat,2.4,5,35.8644104003906,-92.1164932250977,Highway 14 N,Mountain View,72560,,False,yelp_api
+GkS2GRyE5h6Gg5EEd1sDUA,Premier Coin Laundry,2.4,5,35.1548385620117,-92.7430114746094,,Morrilton,72110,,False,yelp_api
+Atie29DuLh10QukquDAw-w,So Much Clean Coin Laundry,0.0,0,35.24048450816155,-91.73589707412988,808 S Main St,Searcy,72143,,False,yelp_api
+Z5WgUPDYzzurk6-aJDvtZg,Sugarloaf Laundry Mat,3.0,2,35.4962288,-91.9977495,521 Wilburn Rd,Heber Springs,72543,,False,yelp_api
+VLJE_LYJ95gedvrBLr1_Nw,Eagle Coin Wash,0.0,0,34.56423,-92.59753,925 W South St,Benton,72015,,False,yelp_api
+RlOtYzf3_E8bV7sHSypHCw,Searcy Suds Laundromat,0.0,0,35.25366,-91.7285799,802 E Moore Ave,Searcy,72143,,False,yelp_api
+6PCcyHnfXrpxzYR08mYZOw,Super Suds Coin Laundry,2.0,4,35.250892,-91.709652,2216 E Race Ave,Searcy,72143,,False,yelp_api
+nh0g1HY-VeWG0mqf3PAGow,Young's Coin Laundry,3.0,1,34.77259,-92.27827,1812 Pike Ave,North Little Rock,72114,,False,yelp_api
+KXjfUimY18hxOJXSahXfCQ,Super Suds Coin Laundry,1.8,5,34.861712657023,-92.1193248804753,3301 E Kiehl Ave,Sherwood,72120,,False,yelp_api
+D5S6YWK7UK0GGVJX6-5Avw,The Wash House,0.0,0,34.36003760324794,-92.8111211444726,920 Dyer St,Malvern,72104,,False,yelp_api
+kj-4e4u0D4mgJ_kr_WyMxQ,Fun Wash Laundry Center,0.0,0,34.77972,-92.27614,809 W Pershing Blvd,North Little Rock,72114,,False,yelp_api
+QpnEGifEZMsfhoXhspdgWA,Laundry Lounge,0.0,0,34.532074,-92.336619,24005 Arch St,Hensley,72065,,False,yelp_api
+dfV5Pp2vrGWxMRtOZ0EoZw,Conway Coin Laundry,1.0,1,35.07859,-92.46342,155 Farris Rd,Conway,72034,,False,yelp_api
+tufCWs2Fzdf652BwyuIsgA,Fun Wash Laundry Center,0.0,0,34.7680778503418,-92.2663421630859,116 E 15th St,North Little Rock,72114,,False,yelp_api
+5Y18PvFYFr9E896AudGMgQ,Jud Suds Laundromat and Car Wash,0.0,0,35.2827689580202,-91.6345801063479,900 Hwy 367 N,Judsonia,72081,,False,yelp_api
+0locIquBy77GnQnsR6DxTQ,Fun Wash Laundry Center,0.0,0,34.6691999,-92.33728,5310 Baseline Rd,Little Rock,72209,,False,yelp_api
+aG7hvVmSMyUFdkyPc5MgQA,Fun Wash Laundry Center,0.0,0,34.68408,-92.34402,7212 Geyer Springs Rd,Little Rock,72209,,False,yelp_api
+5iLqw26o4-Qc4nivkfw2FA,Fun Wash Laundry Center,0.0,0,34.71926,-92.3427899,3702 S University Ave,Little Rock,72204,,False,yelp_api
+qH8WFzloiuh61GbY4fhttQ,Fun Wash Laundry Center,0.0,0,34.7400095,-92.3721475,1415 John Barrow Rd,Little Rock,72204,,False,yelp_api
+3t3HzbFAmYcT3yY3gWGgNA,Laundry Xpress,4.4,9,35.81002,-90.67604,2402 Phillips Dr,Jonesboro,72401,,False,yelp_api
+Cg5vwHkQFoTu4oxG4p68NA,Tidy Hamper,5.0,1,35.81005148737879,-90.6760076,2402 Phillips Dr,Jonesboro,72401,,False,yelp_api
+d3YN8LeS4irFOLR7ZKguzQ,J & M Two Coin Operated Laundry,0.0,0,33.745638,-90.711131,201 N Martin Luther King Dr,Cleveland,38732,,False,yelp_api
+yX4F82XpGAF3C0MyJZeQ0g,Lovelyn’s Money laundry,0.0,0,33.915886,-93.148434,108 S 6th St,Gurdon,71743,,False,yelp_api

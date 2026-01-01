@@ -222,12 +222,27 @@ with status_container:
         status_text.markdown('<div class="info-box"><b>Step 2:</b> Collecting demographic data from US Census Bureau</div>', unsafe_allow_html=True)
         progress_bar.progress(30)
         
+        
+            # Increase timeout to 300 seconds (5 minutes) for Streamlit Cloud
         result = subprocess.run(
             ['python3', 'ecko_zip.py', '--zip', zip_code, '--force'],
             capture_output=True,
             text=True,
-            timeout=120
+            timeout=300  # Increased from 120
         )
+
+        # DEBUG: Show what happened
+        st.write(f"DEBUG: Return code: {result.returncode}")
+        st.write(f"DEBUG: Output length: {len(result.stdout)}")
+        if result.stderr:
+            st.error(f"DEBUG: Errors: {result.stderr[:500]}")
+        
+        # result = subprocess.run(
+        #     ['python3', 'ecko_zip.py', '--zip', zip_code, '--force'],
+        #     capture_output=True,
+        #     text=True,
+        #     timeout=120
+        # )
         
         progress_bar.progress(70)
         status_text.markdown('<div class="info-box"><b>Step 3:</b> Mapping competition and calculating opportunity scores</div>', unsafe_allow_html=True)

@@ -27,7 +27,7 @@ def get_county_from_zip(zip_code):
     
     if not zip_db_file.exists():
         print("⚠️  ZIP database not found. Downloading...")
-        subprocess.run("python3 download_county_database.py", shell=True)
+        subprocess.run(f"{sys.executable} download_county_database.py", shell=True)
         
         if not zip_db_file.exists():
             return None
@@ -50,7 +50,7 @@ def get_county_from_zip(zip_code):
     
     if not county_db_file.exists():
         print("⚠️  County database not found. Downloading...")
-        subprocess.run("python3 download_county_database.py", shell=True)
+        subprocess.run(f"{sys.executable} download_county_database.py", shell=True)
         
         if not county_db_file.exists():
             return None
@@ -162,7 +162,7 @@ def analyze_by_zip(zip_code, force_refresh=False):
         print(f"\n[Step 1/4] Collecting Census & Yelp data...")
         
         if not run_command(
-            f"python3 src/data_collection.py --city '{info['city']}' --state {info['state']} --county-fips {info['county_fips']} --county-name '{info['county']}' --output-dir {data_dir}",
+            f"{sys.executable} src/data_collection.py --city '{info['city']}' --state {info['state']} --county-fips {info['county_fips']} --county-name '{info['county']}' --output-dir {data_dir}",
             f"Collecting data for {info['city']}"
         ):
             return False
@@ -171,7 +171,7 @@ def analyze_by_zip(zip_code, force_refresh=False):
         print(f"\n[Step 2/4] Aggregating census tracts...")
         
         if not run_command(
-            f"python3 create_zip_demographics.py --data-dir {data_dir}",
+            f"{sys.executable} create_zip_demographics.py --data-dir {data_dir}",
             "Creating ZIP-level demographics"
         ):
             return False
@@ -182,7 +182,7 @@ def analyze_by_zip(zip_code, force_refresh=False):
     print(f"\n[Step 3/4] Adding location names...")
     
     if not run_command(
-        f"python3 add_location_names_scalable.py --data-dir {data_dir} --output-dir {output_dir}",
+        f"{sys.executable} add_location_names_scalable.py --data-dir {data_dir} --output-dir {output_dir}",
         "Adding location names"
     ):
         return False
@@ -191,7 +191,7 @@ def analyze_by_zip(zip_code, force_refresh=False):
     print(f"\n[Step 4/4] Calculating scores...")
     
     if not run_command(
-        f"python3 src/analysis.py --data-dir {data_dir} --output-dir {output_dir}",
+        f"{sys.executable} src/analysis.py --data-dir {data_dir} --output-dir {output_dir}",
         "Running market analysis"
     ):
         return False

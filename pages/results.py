@@ -5,7 +5,6 @@ Market Analysis Results
 
 import streamlit as st
 import pandas as pd
-import subprocess
 import json
 from pathlib import Path
 import plotly.express as px
@@ -13,8 +12,6 @@ import plotly.graph_objects as go
 import time
 import base64
 import sys
-import os
-
 
 # Page config
 st.set_page_config(
@@ -83,21 +80,6 @@ st.markdown(f"""
         margin: 2rem 0 1rem 0;
         padding-bottom: 0.75rem;
         border-bottom: 2px solid rgba(59, 130, 246, 0.3);
-    }}
-    
-    /* KPI cards */
-    .kpi-card {{
-        background: rgba(30, 41, 59, 0.6);
-        backdrop-filter: blur(20px);
-        border: 1px solid rgba(148, 163, 184, 0.2);
-        border-radius: 12px;
-        padding: 1.5rem;
-        transition: all 0.3s ease;
-    }}
-    
-    .kpi-card:hover {{
-        transform: translateY(-2px);
-        border-color: rgba(59, 130, 246, 0.5);
     }}
     
     /* Info boxes */
@@ -221,88 +203,39 @@ with status_container:
     status_text.markdown('<div class="info-box"><b>Step 1:</b> Validating location and retrieving county information</div>', unsafe_allow_html=True)
     progress_bar.progress(10)
     
-    
-        # DEBUG: Show Python info
-    st.write(f"DEBUG: Python executable: {sys.executable}")
-    st.write(f"DEBUG: Python version: {sys.version}")
-
-    # Test if pandas is available in THIS environment
     try:
-        import pandas as pd
-        st.write(f"DEBUG: Pandas version in Streamlit: {pd.__version__}")
-    except:
-        st.error("DEBUG: Pandas not found in Streamlit environment!")
-
-    # Show what the subprocess will use
-    import subprocess
-    test_result = subprocess.run(
-        [sys.executable, '-c', 'import pandas; print(pandas.__version__)'],
-        capture_output=True,
-        text=True
-    )
-    st.write(f"DEBUG: Subprocess pandas test: {test_result.stdout}")
-    st.write(f"DEBUG: Subprocess pandas error: {test_result.stderr}")
-    
-    try:
+        # Add project root to Python path for imports
+        project_root = Path(__file__).parent.parent
+        if str(project_root) not in sys.path:
+            sys.path.insert(0, str(project_root))
+        
         status_text.markdown('<div class="info-box"><b>Step 2:</b> Collecting demographic data from US Census Bureau</div>', unsafe_allow_html=True)
         progress_bar.progress(30)
         
-        import sys
-        import os
-
-        # Set up environment for subprocess
-        env = os.environ.copy()
-        env['PYTHONPATH'] = '/mount/src/ecko-analytics'
-
-        result = subprocess.run(
-            [sys.executable, 'ecko_zip.py', '--zip', zip_code, '--force'],
-            capture_output=True,
-            text=True,
-            timeout=300,
-            cwd='/mount/src/ecko-analytics',  # Run from project root
-            env=env  # Pass environment with PYTHONPATH
-        )
-        # DEBUG: Show what happened
-        st.write(f"DEBUG: Return code: {result.returncode}")
-        st.write(f"DEBUG: Output length: {len(result.stdout)}")
-        if result.stderr:
-            st.error(f"DEBUG: Errors: {result.stderr[:500]}")
+        # Import the analysis function
+        from ecko_zip import analyze_by_zip
         
-        # result = subprocess.run(
-        #     ['python3', 'ecko_zip.py', '--zip', zip_code, '--force'],
-        #     capture_output=True,
-        #     text=True,
-        #     timeout=120
-        # )
+        progress_bar.progress(50)
+        status_text.markdown('<div class="info-box"><b>Step 3:</b> Running market analysis and calculating scores</div>', unsafe_allow_html=True)
         
-        progress_bar.progress(70)
-        status_text.markdown('<div class="info-box"><b>Step 3:</b> Mapping competition and calculating opportunity scores</div>', unsafe_allow_html=True)
+        # Call analysis directly (no subprocess!)
+        success = analyze_by_zip(zip_code, force_refresh=True)
         
-        time.sleep(0.5)
         progress_bar.progress(100)
         
-        if "✓ SUCCESS - ANALYSIS COMPLETE" in result.stdout or "DONE!" in result.stdout:
-            
+        if success:
             status_text.empty()
             progress_bar.empty()
             
-            # Extract county info
-            county_name = "Unknown County"
-            state = "Unknown State"
-            county_slug = None
+            # Get county info from ZIP
+            from ecko_zip import get_county_from_zip
+            info = get_county_from_zip(zip_code)
             
-            output_lines = result.stdout.split('\n')
-            
-            for line in output_lines:
-                if "ANALYZING:" in line:
-                    parts = line.split('ANALYZING:')[1].strip().split(',')
-                    if len(parts) >= 2:
-                        county_name = parts[0].strip()
-                        state = parts[1].strip()
-                        county_slug = county_name.lower().replace(' county', '').replace(' ', '_') + '_county_' + state.lower().replace(' ', '_')
-                    break
-            
-            if county_slug:
+            if info:
+                county_name = info['county']
+                state = info['state']
+                county_slug = county_name.lower().replace(' county', '').replace(' ', '_') + '_county_' + state.lower().replace(' ', '_')
+                
                 county_dir = Path(f'outputs/{county_slug}')
                 
                 if county_dir.exists():
@@ -487,11 +420,22 @@ with status_container:
                             - Yelp Fusion API (real-time)
                             - HUD ZIP-Tract Crosswalk
                             """)
+                    else:
+                        st.error("Result files not found after analysis completed.")
+                else:
+                    st.error(f"Output directory not found: {county_dir}")
+            else:
+                st.error("Could not retrieve county information.")
+        else:
+            st.error("Analysis failed. Please try a different ZIP code or check the logs.")
     
-    except subprocess.TimeoutExpired:
-        st.error("Analysis timeout. Please try again.")
     except Exception as e:
-        st.error(f"Error: {str(e)}")
+        status_text.empty()
+        progress_bar.empty()
+        st.error(f"Error during analysis: {str(e)}")
+        import traceback
+        with st.expander("Show error details"):
+            st.code(traceback.format_exc())
 
 # Footer
 st.markdown("""

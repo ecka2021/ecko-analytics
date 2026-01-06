@@ -6,8 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-[Live Demo](https://your-app-url.streamlit.app) | [Video Walkthrough](#) | [LinkedIn Post](#)
-
+[Live Demo](https://ecko-analytics.streamlit.app)
 ---
 
 ## Overview

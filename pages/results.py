@@ -352,22 +352,10 @@ with status_container:
                             )
                             st.plotly_chart(fig2, use_container_width=True)
                         
-                        # AI Assistant Placeholder
-                        st.markdown('<div class="section-title">AI Market Assistant (Coming Soon)</div>', unsafe_allow_html=True)
+                        # AI Market Assistant (FREE!)
+                        from free_ai_assistant import free_ai_assistant
                         
-                        st.markdown("""
-                        <div class="ai-assistant">
-                            <i class="fas fa-robot ai-icon"></i>
-                            <div class="ai-title">Ask AI Anything About This Market</div>
-                            <div class="ai-desc">
-                                Future feature: Chat with an AI assistant about your analysis.
-                                Ask questions like "Why is this ZIP ranked #1?" or "Compare these 3 locations for me"
-                            </div>
-                            <div style="margin-top: 2rem; color: #a78bfa;">
-                                <i class="fas fa-flask"></i> In Development - Pro Feature
-                            </div>
-                        </div>
-                        """, unsafe_allow_html=True)
+                        free_ai_assistant(county_name, state, insights, scores_df, top10)
                         
                         # Export
                         st.markdown('<div class="section-title">Export & Reports</div>', unsafe_allow_html=True)
